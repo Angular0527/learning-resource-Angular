@@ -15,3 +15,5 @@ Square Island | http://blog.sqisland.com/
 ph0b's | http://ph0b.com/
 D-codepages | http://d-codepages.com/
 Learn2Crack | https://www.learn2crack.com/
+MKyong | http://www.mkyong.com/tutorials/android-tutorial/
+AndroidGig | http://androidgig.com/
