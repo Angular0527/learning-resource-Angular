@@ -17,3 +17,4 @@ D-codepages | http://d-codepages.com/
 Learn2Crack | https://www.learn2crack.com/
 MKyong | http://www.mkyong.com/tutorials/android-tutorial/
 AndroidGig | http://androidgig.com/
+Styling Android | https://blog.stylingandroid.com/
