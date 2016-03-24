@@ -1,4 +1,3 @@
-### IDE Tools
 
 IDEs with code completion and other features.
 -------------------------------------------
