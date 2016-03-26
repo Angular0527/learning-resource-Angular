@@ -33,3 +33,9 @@
 ### Network 
 - [OkHttp](https://github.com/square/okhttp) - An HTTP & HTTP/2 client for Android and Java applications by Square, Inc.
 - [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc. 
+
+### Image loading
+- [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android by Square, Inc.
+- [Glide](https://github.com/bumptech/glide) - A powerful image downloading and caching library for Androidhttps://github.com/bumptech/glide
+- [Fresco](http://frescolib.org/) - An Android library for managing images and the memory they use by Facebook
+- [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android.
