@@ -39,3 +39,5 @@
 - [Glide](https://github.com/bumptech/glide) - A powerful image downloading and caching library for Androidhttps://github.com/bumptech/glide
 - [Fresco](http://frescolib.org/) - An Android library for managing images and the memory they use by Facebook
 - [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android.
+- [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
+- [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
