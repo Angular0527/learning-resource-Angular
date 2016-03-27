@@ -1,6 +1,5 @@
 List of Big Data/Data Science books
-				==================
-
+				
 ###Index
 * [Big Data] (#bigdata)
 	* [Hadoop] (#hadoop)
