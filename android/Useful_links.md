@@ -2,6 +2,7 @@
 
 - [Android Arsenal](https://android-arsenal.com/) - Android developer portal with tools, libraries, and apps
 - [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
+- [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter.
 
 ### Debug 
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
