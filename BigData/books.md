@@ -116,14 +116,3 @@ List of Big Data/Data Science books
 * [Mathematics for Computer Science] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) - Eric Lehman, Thomas Leighton, and Albert R. Meyer - `Beginner`
 * [The Field Guide to Data Science] (http://www.boozallen.com/media/file/The-Field-Guide-to-Data-Science.pdf) - `Beginner`
 
-
-###MOOCs about Data Science
-* [Data Mining with Weka] (http://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) - Ian H. Witten - `Intermediate`
-* [Introduction to Data Science] (https://class.coursera.org/datasci-001/class) - Bill Howe (Coursera) - `Beginner`
-* [Introduction to Hadoop and MapReduce] (https://www.udacity.com/course/ud617) - Udacity - `Beginner`
-* [Machine Learning] (https://class.coursera.org/ml-003/class) - Andrew Ng (Coursera) - `Beginner`
-* [Machine Learning Foundatiaons (taught in Chinese)] (https://class.coursera.org/ntumlone-001) - Hsuan-Tien Lin - `Beginner`
-* [Machine Learning Video Library] (http://work.caltech.edu/library/#!?goback=.gde_35222_member_5810981726511443971) - Yaser Abu-Mostafa - `Intermediate`
-* [Natural Language Processing] (https://class.coursera.org/nlp/lecture/preview) - Dan Jurafsky and Christopher Manning (Coursera) - `Intermediate`
-* [Social and Economic Networks: Models and Analysis] (https://class.coursera.org/networksonline-001/class) - Matthew O. Jackson (Coursera) - `Intermediate`
-* [Social Network Analysis] (https://class.coursera.org/sna-003/class) - Lada Adamic (Coursera) - `Intermediate`
