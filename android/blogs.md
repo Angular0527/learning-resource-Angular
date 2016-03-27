@@ -20,3 +20,5 @@ AndroidGig | http://androidgig.com/
 Styling Android | https://blog.stylingandroid.com/
 Android UI/UX | http://androiduiux.com/
 Android UI Patterns | http://www.androiduipatterns.com/
+Future Studio Blog | https://futurestud.io/blog
+Rebecca Franks | http://riggaroo.co.za/
