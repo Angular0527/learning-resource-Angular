@@ -1,5 +1,7 @@
 ##Newsletters
 
+Get updates by subscribing this newsletters. 
+
 1. [Mailchimp UX Newsletter](http://www.theuxnewsletter.com/)
 2. [UX Mastery Newsletter](http://uxmastery.com/newsletter/)
 3. [UX Weekly Newsletter](http://uxwkly.com/)
