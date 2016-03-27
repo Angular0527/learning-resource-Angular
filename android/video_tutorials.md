@@ -1,1 +1,2 @@
 - [Caster.io](https://caster.io/) - Android development video tutorials from Android GDEs. Contains both free and paid tutorials.
+- [TheNewBoston.com](https://thenewboston.com/videos.php?cat=278) - Android App Development - Beginners
