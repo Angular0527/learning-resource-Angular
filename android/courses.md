@@ -1,9 +1,12 @@
 Link | Author/Company
 ------------ | -------------
 [Depeloping Android apps - Android fundamentals](https://www.udacity.com/course/developing-android-apps--ud853) | Google
+[Complete Set of Tutorials for Beginners] (https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl) | thenewboston
 [Android Development for Beginners - How to Make an Android App](https://www.udacity.com/course/android-development-for-beginners--ud837) | Google
+[Absolute Beginners tutorial] (https://www.youtube.com/playlist?list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa) | SlideNerd
 [Android Performance - Optimizing Apps for Speed and Usability](https://www.udacity.com/course/android-performance--ud825) | Google
 [Advanced Android App Development - Productionize and Publish Your Apps](https://www.udacity.com/course/advanced-android-app-development--ud855) | Google
+[Android Databse Tutorial] (https://www.youtube.com/playlist?list=PLonJJ3BVjZW5JdoFT0Rlt3ry5Mjp7s8cT) | SlideNerd
 [Firebase Essentials For Android - Build a shopping list app](https://www.udacity.com/course/firebase-essentials-for-android--ud009) | Google
 [Material Design for Android Developers - Make Your Android Apps Material](https://www.udacity.com/course/material-design-for-android-developers--ud862) | Google
 [Android Wear Development - Extend your Apps to Android Smartwatches](https://www.udacity.com/course/android-wear-development--ud875A) | Google
@@ -16,3 +19,5 @@ Link | Author/Company
 [Add Google Maps to your Android App - Integrate Maps, Cameras, and Street View](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4) | Google
 [Add Google Sign-In to your Android Apps - Add Sign-In for Mobile App Development](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5) | Google
 [UX Design for Mobile Developers - Learn to Design a 5-Star Android App](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) | Google
+
+
