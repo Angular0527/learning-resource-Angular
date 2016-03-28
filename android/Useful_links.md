@@ -25,6 +25,7 @@
 - [Sort Text Lines] (http://textmechanic.com/text-tools/basic-text-tools/sort-text-lines/) Enter your text/list for sorting here.
 - [Performance Analysis of App] (http://www.monkop.com/) Get a detailed analysis about performance, security and functionality.
 - [Material Palette Generator] (http://www.materialpalette.com/) Choose your favorite colors and get your Material Design palette generated and downloadable.
+- [Gradle, Please] (http://gradleplease.appspot.com/) Super Easy search for dependencies
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
@@ -43,3 +44,6 @@
 - [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android.
 - [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
 - [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
+
+### Application Bug Testing
+- - [Fabric] (https://get.fabric.io/android) with [Crashlytics kit] (https://try.crashlytics.com/) - A powerful crash-report solution with statistics.
