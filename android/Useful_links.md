@@ -12,20 +12,21 @@
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
 
 ### Development tools 
-- [JSON viewer](http://json.parser.online.fr/) view JSON not response 
-- [JSON editor](http://www.jsoneditoronline.org/) Create and view JSON 
-- [JSON Plugin](https://addons.mozilla.org/en-Us/firefox/addon/jsonview/) Plugin that help your response to view in Formated JSON
-- [Angry Tools](http://angrytools.com/) Tools like CSS,Gradient,Android Button,Code for Email,Android Pixel Calculator and many more
-- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)-Icon generators,Theme generator
-- [Device metrics(Google)](https://design.google.com/devices/)Select a device to view detailed information, recommended material design measurements, and values for portrait and landscape orientations.
-- [Find any shared logins(bugmenot.com) ](http://bugmenot.com/)Enter a website below to see if the bugmenot community has shared any logins for it...
-- [Generate POJO] (http://www.jsonschema2pojo.org/)  Generate Plain Old Java Objects from JSON or JSON-Schema.
-- [Implement Parcelable] (http://www.parcelabler.com/) Implements Parcelable for your JAVA class. You can even use POJO class.
-- [Material Color Generator] (http://knizia.biz/mcg/) Select Main color for your app theme and rest will be generated accordingly.
-- [Sort Text Lines] (http://textmechanic.com/text-tools/basic-text-tools/sort-text-lines/) Enter your text/list for sorting here.
-- [Performance Analysis of App] (http://www.monkop.com/) Get a detailed analysis about performance, security and functionality.
-- [Material Palette Generator] (http://www.materialpalette.com/) Choose your favorite colors and get your Material Design palette generated and downloadable.
-- [Gradle, Please] (http://gradleplease.appspot.com/) Super Easy search for dependencies
+- [JSON viewer](http://json.parser.online.fr/) - View JSON not response 
+- [JSON editor](http://www.jsoneditoronline.org/) - Create and view JSON 
+- [JSON Plugin](https://addons.mozilla.org/en-Us/firefox/addon/jsonview/) - Plugin that help your response to view in Formated JSON
+- [Angry Tools](http://angrytools.com/) - Tools like CSS,Gradient,Android Button,Code for Email,Android Pixel Calculator and many more
+- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Icon generators, Theme generator
+- [Device metrics(Google)](https://design.google.com/devices/) - Select a device to view detailed information, recommended material design measurements, and values for portrait and landscape orientations.
+- [Find any shared logins(bugmenot.com)](http://bugmenot.com/) - Enter a website below to see if the bugmenot community has shared any logins for it...
+- [Generate POJO](http://www.jsonschema2pojo.org/) - Generate Plain Old Java Objects from JSON or JSON-Schema.
+- [Implement Parcelable](http://www.parcelabler.com/) - Implements Parcelable for your JAVA class. You can even use POJO class.
+- [Material Color Generator](http://knizia.biz/mcg/) - Select Main color for your app theme and rest will be generated accordingly.
+- [Sort Text Lines](http://textmechanic.com/text-tools/basic-text-tools/sort-text-lines/) - Enter your text/list for sorting here.
+- [Performance Analysis of App](http://www.monkop.com/) - Get a detailed analysis about performance, security and functionality.
+- [Material Palette Generator](http://www.materialpalette.com/) - Choose your favorite colors and get your Material Design palette generated and downloadable.
+- [Gradle, Please](http://gradleplease.appspot.com/) - Super Easy search for dependencies
+- [Methods Count](http://www.methodscount.com/) - Android libraries are great, but they come at a cost. Use this tool to avoid the dreaded 65K method limit of the DEX file format!
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
