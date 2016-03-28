@@ -45,5 +45,7 @@
 - [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
 - [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
 
-### Application Bug Testing
-- - [Fabric] (https://get.fabric.io/android) with [Crashlytics kit] (https://try.crashlytics.com/) - A powerful crash-report solution with statistics.
+### Application crash reporting
+- [Crashlytics](https://try.crashlytics.com/) with [Fabric kit](https://get.fabric.io/android) - A powerful crash reporting solution with statistics by Twitter
+- [Crittercism](https://www.apteligent.com/) - Crittercism aka Apteligent - A powerful tool for crash reporting, user flows and service monitoring
+- [ACRA](https://github.com/ACRA/acra) - ACRA is a library enabling Android Application to automatically post their crash reports to a GoogleDoc form.
