@@ -10,3 +10,12 @@ These are some of the tips and tricks shared by our fellow android developers!
 - [Tools of the trade - Part 1](https://medium.com/sebs-top-tips/tools-of-the-trade-part-1-f3c1c73de898#.1s9tohc8q)
 - [Tools of the trade - Part 2](https://medium.com/sebs-top-tips/tools-of-the-trade-part-2-b91271892d10#.vdrdkcr4i)
 - [Tools of the trade - Slides](https://speakerdeck.com/rock3r/tools-of-the-trade-droidcon-nyc-2015)
+
+
+####Android Studio shortcuts to boost coding speed
+- [Tricks as on Developer Website](http://developer.android.com/sdk/installing/studio-tips.html)
+
+
+#####IntelliJIDEA shortcuts 
+- [Cheatsheet for Mac users](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard_mac.pdf)
+- [Cheatsheet for Windows users](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf)
