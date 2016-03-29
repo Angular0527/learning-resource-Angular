@@ -27,6 +27,7 @@
 - [Material Palette Generator](http://www.materialpalette.com/) - Choose your favorite colors and get your Material Design palette generated and downloadable.
 - [Gradle, Please](http://gradleplease.appspot.com/) - Super Easy search for dependencies
 - [Methods Count](http://www.methodscount.com/) - Android libraries are great, but they come at a cost. Use this tool to avoid the dreaded 65K method limit of the DEX file format!
+- [Android 9-patch shadow generator](http://inloop.github.io/shadow4android/) - Android 9-patch shadow generator fully customizable shadows
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
