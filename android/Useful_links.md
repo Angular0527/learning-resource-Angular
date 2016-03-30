@@ -28,6 +28,7 @@
 - [Gradle, Please](http://gradleplease.appspot.com/) - Super Easy search for dependencies
 - [Methods Count](http://www.methodscount.com/) - Android libraries are great, but they come at a cost. Use this tool to avoid the dreaded 65K method limit of the DEX file format!
 - [Android 9-patch shadow generator](http://inloop.github.io/shadow4android/) - Android 9-patch shadow generator fully customizable shadows
+- [Google Material design icons] (https://design.google.com/icons/) Material icons for both Light and Dark themes, downloaded as either SVGs or PNGs.
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
@@ -46,6 +47,7 @@
 - [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android.
 - [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
 - [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
+- [Most memory efficient way to resize bitmaps on android?] (http://stackoverflow.com/questions/32121058/most-memory-efficient-way-to-resize-bitmaps-on-android) - An SO post by Colt McAnlis on most efficient way to resize bitmaps.
 
 ### Application crash reporting
 - [Crashlytics](https://try.crashlytics.com/) with [Fabric kit](https://get.fabric.io/android) - A powerful crash reporting solution with statistics by Twitter

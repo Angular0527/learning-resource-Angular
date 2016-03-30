@@ -32,3 +32,4 @@ Orhan Obut | https://twitter.com/orhanobut | https://plus.google.com/11466359048
 Chet Haase | https://twitter.com/chethaase | https://plus.google.com/+ChetHaase | http://graphics-geek.blogspot.in/ | https://www.linkedin.com/in/chethaase | https://medium.com/@chethaase
 Romain Guy | https://twitter.com/romainguy | https://plus.google.com/+RomainGuy | http://www.curious-creature.com/category/android/
 Michael Evans | https://twitter.com/m_evans10 | https://plus.google.com/+MichaelEvans | http://michaelevans.org/
+Colt McAnlis | https://twitter.com/duhroach | https://plus.google.com/+ColtMcAnlis | http://mainroach.blogspot.in/ https://medium.com/@duhroach | https://www.linkedin.com/in/duhroach | https://www.youtube.com/playlist?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
