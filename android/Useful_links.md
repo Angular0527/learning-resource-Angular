@@ -3,17 +3,18 @@
 - [Android Arsenal](https://android-arsenal.com/) - Android developer portal with tools, libraries, and apps
 - [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
 - [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter.
+- [Android Dev Reddit](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community.
 
-### Debug 
+### Debug
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
 
 ### JSON
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
 
-### Development tools 
-- [JSON viewer](http://json.parser.online.fr/) - View JSON not response 
-- [JSON editor](http://www.jsoneditoronline.org/) - Create and view JSON 
+### Development tools
+- [JSON viewer](http://json.parser.online.fr/) - View JSON not response
+- [JSON editor](http://www.jsoneditoronline.org/) - Create and view JSON
 - [JSON Plugin](https://addons.mozilla.org/en-Us/firefox/addon/jsonview/) - Plugin that help your response to view in Formated JSON
 - [Angry Tools](http://angrytools.com/) - Tools like CSS,Gradient,Android Button,Code for Email,Android Pixel Calculator and many more
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Icon generators, Theme generator
@@ -36,9 +37,9 @@
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
 - [AndroidAnnotations](https://github.com/excilys/androidannotations) - Java annotations with dependency injection at compile time.
 
-### Network 
+### Network
 - [OkHttp](https://github.com/square/okhttp) - An HTTP & HTTP/2 client for Android and Java applications by Square, Inc.
-- [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc. 
+- [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
 
 ### Image loading
 - [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android by Square, Inc.

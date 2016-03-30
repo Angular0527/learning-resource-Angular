@@ -1,5 +1,5 @@
-Name | Links 
------------- | ------------- 
+Name | Links
+------------ | -------------
 Android Developer Blog | http://android-developers.blogspot.in/
 Techno Talkative  | http://www.technotalkative.com/
 Android Weekly | http://androidweekly.net/
@@ -22,3 +22,4 @@ Android UI/UX | http://androiduiux.com/
 Android UI Patterns | http://www.androiduipatterns.com/
 Future Studio Blog | https://futurestud.io/blog
 Rebecca Franks | http://riggaroo.co.za/
+Grafix Artist | http://blog.grafixartist.com/
