@@ -1,3 +1,4 @@
 Name and Author | URL
 ------------ | -------------
-The Ruby programming language - David Flanagan and Yukihiro Matsumoto | http://www.amazon.in/Ruby-Programming-Language-Davd-Flanagan/dp/0596516177
+Ruby on Rails Tutorial, Learn Web Development with Rails - Michael Hartl | https://www.railstutorial.org/book
+Multitenancy with Rails - Ryan Bigg | https://leanpub.com/multi-tenancy-rails
