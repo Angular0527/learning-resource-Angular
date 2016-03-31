@@ -22,4 +22,9 @@ Android UI/UX | http://androiduiux.com/
 Android UI Patterns | http://www.androiduipatterns.com/
 Future Studio Blog | https://futurestud.io/blog
 Rebecca Franks | http://riggaroo.co.za/
+<<<<<<< HEAD
 Grafix Artist | http://blog.grafixartist.com/
+=======
+Antonio Leiva | http://antonioleiva.com/
+Droids on Roids | http://www.thedroidsonroids.com/category/blog/android/
+>>>>>>> upstream/master
