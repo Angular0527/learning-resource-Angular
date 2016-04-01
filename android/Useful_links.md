@@ -4,6 +4,7 @@
 - [Android Weekly](http://androidweekly.net/) - Android Weekly is a free newsletter that helps you to stay cutting-edge with your Android Development.
 - [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly #AndroidDev Newsletter.
 - [Android Dev Reddit](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community.
+- [Google Developer Experts - Medium](https://medium.com/google-developer-experts) - Articles, tips/tricks and best practices by Google Developers Experts. It has posts for different technologies but you have to look for android specifically!
 
 ### Debug
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
