@@ -43,6 +43,7 @@
 - [OkHttp](https://github.com/square/okhttp) - An HTTP & HTTP/2 client for Android and Java applications by Square, Inc.
 - [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
 - [Volley](http://developer.android.com/training/volley/index.html) - Google's HTTP library that makes networking for Android apps easier and most importantly, faster.
+- [Android Asynchronous Http Client](http://loopj.com/android-async-http) - An asynchronous callback-based Http client for Android built on top of Apache’s HttpClient libraries.
 
 ### Image loading
 - [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android by Square, Inc.
@@ -60,3 +61,9 @@
 
 ### Bluetooth
 - [RxAndroidBLE] (https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. It is backed by RxJava, implementing complicated APIs as handy reactive observables.
+
+### ORM NoSQL
+- [Realm](https://realm.io) - Realm is NoSQL Mobile Database
+- [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) - A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.
+- [CouchBase](http://developer.couchbase.com/mobile) - The NoSQL database solution for mobile — everything you need to build always-available apps that work online & offline.
+- [SnappyDB](http://www.snappydb.com) - A fast and lightweight key/value database library for Android
