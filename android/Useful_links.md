@@ -31,7 +31,13 @@
 - [Gradle, Please](http://gradleplease.appspot.com/) - Super Easy search for dependencies
 - [Methods Count](http://www.methodscount.com/) - Android libraries are great, but they come at a cost. Use this tool to avoid the dreaded 65K method limit of the DEX file format!
 - [Android 9-patch shadow generator](http://inloop.github.io/shadow4android/) - Android 9-patch shadow generator fully customizable shadows
-- [Google Material design icons] (https://design.google.com/icons/) Material icons for both Light and Dark themes, downloaded as either SVGs or PNGs.
+- [Google Material design icons](https://design.google.com/icons/) - Material icons for both Light and Dark themes, downloaded as either SVGs or PNGs.
+
+### Android Studio Plugins
+- [adb-idea](https://github.com/pbreault/adb-idea) - A plugin for Android Studio and Intellij IDEA that speeds up your day to day android development.
+- [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML.
+- [ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) - IntelliJ Plugin for Android Parcelable boilerplate code generation.
+
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
