@@ -42,6 +42,7 @@
 ### Network
 - [OkHttp](https://github.com/square/okhttp) - An HTTP & HTTP/2 client for Android and Java applications by Square, Inc.
 - [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
+- [Volley](http://developer.android.com/training/volley/index.html) - Google's HTTP library that makes networking for Android apps easier and most importantly, faster.
 
 ### Image loading
 - [Picasso](https://github.com/square/picasso) - A powerful image downloading and caching library for Android by Square, Inc.
