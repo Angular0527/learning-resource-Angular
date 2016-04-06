@@ -73,3 +73,8 @@
 - [SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) - A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.
 - [CouchBase](http://developer.couchbase.com/mobile) - The NoSQL database solution for mobile — everything you need to build always-available apps that work online & offline.
 - [SnappyDB](http://www.snappydb.com) - A fast and lightweight key/value database library for Android
+
+### ORM SQL
+- [ActiveAndroid](http://www.activeandroid.com/) - Active record style SQLite persistence for Android.
+- [GreenDao](http://greenrobot.org/greendao/) - greenDAO is an open source project to help Android developers working with data stored in SQLite. 
+- [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
