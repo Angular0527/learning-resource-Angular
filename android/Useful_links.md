@@ -84,7 +84,6 @@
 
 ### Charts & Graphs Libraries
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android with support for scaling, scrolling and animations.
-- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChartMPAndroidChart) - A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
 - [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Flexible charting library with useful motion capabilities.
 - [AndroidPlot](http://androidplot.com/docs/quickstart/) - plotting library for Android
 - [AndroidGraphView](http://android-graphview.org/) - library to create flexible and nice-looking diagrams
