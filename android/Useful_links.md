@@ -85,10 +85,10 @@
 ### Charts & Graphs Libraries
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - Charts/graphs library for Android with support for scaling, scrolling and animations.
 - [WilliamChart](https://github.com/diogobernardino/WilliamChart) - Flexible charting library with useful motion capabilities.
-- [AndroidPlot](http://androidplot.com/docs/quickstart/) - plotting library for Android
+- [AndroidPlot](https://github.com/halfhp/androidplot) - plotting library for Android
 - [AndroidGraphView](http://android-graphview.org/) - library to create flexible and nice-looking diagrams
 - [AndroidCharts](https://github.com/dacer/AndroidCharts) - Easy to use charts
 - [EazeGraph](https://github.com/blackfizz/EazeGraph) - Another newer library with potential
 - [HoloGraphLibrary](https://github.com/Androguide/HoloGraphLibrary) - Newer graphing library
-- [AChartEngine](http://jaxenter.com/effort-free-graphs-on-android-with-achartengine-46199.html) - This is a charting software library for Android applications
+- [AChartEngine](https://github.com/ddanny/achartengine) - This is a charting software library for Android applications
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library
