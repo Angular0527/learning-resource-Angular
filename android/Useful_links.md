@@ -11,6 +11,7 @@
 - [Hugo] (https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
 - [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android.
 - [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+- [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
 
 
 ### JSON
