@@ -50,6 +50,8 @@
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [RoboGuice](https://github.com/roboguice/roboguice) - Dependency injection framework for Android.
 - [AndroidAnnotations](https://github.com/excilys/androidannotations) - Java annotations with dependency injection at compile time.
+- [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose library containing view injection and threading for Android using annotations.
+- [Transfuse](https://github.com/johncarl81/transfuse) - A Dependency Injection and Integration framework for Google Android.  
 
 ### Network
 - [OkHttp](https://github.com/square/okhttp) - An HTTP & HTTP/2 client for Android and Java applications by Square, Inc.
