@@ -97,3 +97,6 @@
 - [HoloGraphLibrary](https://github.com/Androguide/HoloGraphLibrary) - Newer graphing library
 - [AChartEngine](https://github.com/ddanny/achartengine) - This is a charting software library for Android applications
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful Android chart view / graph view library
+
+### Helpful Libraries
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings [Reactive Extensions](http://reactivex.io/) to write easy event-based and asynchronous programs using observable sequences.
