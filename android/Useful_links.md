@@ -102,3 +102,9 @@
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid) - Android specific bindings [Reactive Extensions](http://reactivex.io/) to write easy event-based and asynchronous programs using observable sequences.
 - [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [Guava](https://github.com/google/guava) - The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
+ 
+### Event Bus
+- [AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus) - A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc.
+- [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+- [tinybus](https://github.com/beworker/tinybus) - A lightweight and simple event bus optimized for Android.
+- [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
