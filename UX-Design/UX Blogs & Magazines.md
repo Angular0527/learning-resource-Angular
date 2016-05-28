@@ -1,0 +1,17 @@
+##UX Blogs and Magazines
+
+1. [InfoDesign](http://www.informationdesign.org/)
+2. [WebCredible](http://www.webcredible.com/blog/)
+3. [Adaptive Path Ideas](http://adaptivepath.org/ideas/)
+4. [Nielsen Norman Group Articles](https://www.nngroup.com/articles/)
+5. [Boxes and Arrows](http://boxesandarrows.com/)
+6. [A List Apart](http://alistapart.com/)
+7. [UX Matters](http://www.uxmatters.com/)
+8. [Intercom Blog Design](https://blog.intercom.io/category/design/)
+9. [HeyDesigner](http://heydesigner.com/ux-design/)
+10. [UIE Brainsparks](https://www.uie.com/brainsparks/)
+11. [Form and Function](http://www.lukew.com/ff/)
+12. [Bokardo](http://bokardo.com/archives/)
+13. [UXHandy](http://uxhandy.com/)
+14. [UXSwitch](http://www.uxswitch.com/thinking/)
+15. [UX Magazine](http://uxmag.com/)

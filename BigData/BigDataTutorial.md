@@ -1,0 +1,20 @@
+### Big Data Tutorial List
+- [Big Data Introduction](https://www.linkedin.com/pulse/introduction-big-data-vimox-shah?trk=prof-post) - Big Data Introduction
+- [Big Data University](http://bigdatauniversity.com/moodle/index.php?) - Big Data University Courses by IBM
+- [Data Science](https://www.linkedin.com/pulse/data-science-industry-who-does-what-vimox-shah?trk=prof-post) - Data Science Infographic by Datacamp
+- [Yahoo Tutorial](https://developer.yahoo.com/hadoop/tutorial/module4.html) -  Hadoop Tutorial  By Yahoo
+- [Hadoop](https://www.linkedin.com/pulse/hadoop-ecosystem-vimox-shah?trk=prof-post) - Hadoop Eco System
+- [Big Data Resource](http://www.bigdata-careers.com/?page_id=99) - Big Data Learning Path
+- [Open Data Sites](https://docs.google.com/document/pub?id=1CNBmPiuvcU8gKTMvTQStIbTZcO_CTLMvPxxBrs0hHCg) - Download Various Data sets From Web
+- [Official Apache Hadoop Site](https://hadoop.apache.org) - Apache Hadoop Site
+- [edureka Courses](https://www.youtube.com/user/edurekaIN/playlists?sort=dd&shelf_id=6&view=50) - Edureka's All Youtube Videos
+- [Online Competition For Data Science](https://www.kaggle.com/) - Kaggle
+- [Mapr Tutotial](http://learn.mapr.com/) - One of the Best Tutorial For Big Data and Hadoop
+- [Big Data Projects](https://www.acquia.com/examples-big-data-projects) - Big Data Project Ideas
+- [HDFS Architechture](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html) - Hadoop Distributed File System Arch.
+- [Mapr  Papers](https://www.mapr.com/resources/white-papers) - Hadoop White Papers
+- [Udacity Courses](https://www.udacity.com/courses/data-science) - Udacity MOOC Data Science Courses
+- [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data) - Coursera Big Data Course By University of California,San Diego
+- [Cloudera Hadoop Certification](http://www.cloudera.com/training/certification.html) 
+- [Mapr Hadoop Certification](https://www.mapr.com/services/mapr-academy/certified-hadoop-developer)
+- [Hortonworks Certification](http://hortonworks.com/training/certification/)
