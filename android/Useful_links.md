@@ -44,6 +44,9 @@
 - [ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) - IntelliJ Plugin for Android Parcelable boilerplate code generation.
 - [gradle-android-javadoc-plugin](https://github.com/vanniktech/gradle-android-javadoc-plugin) - Gradle plugin to generate Javadoc
 
+### Android Studio Templates 
+- [Material-Template](https://github.com/kanytu/Android-studio-material-template) - Android-studio-material-template
+- [BaseProject-Template](https://github.com/WebMobTechnologies/AndroidTemplates) - Template for Base Project includes volley lib ,Image loading libs ,basic utils classes 
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
