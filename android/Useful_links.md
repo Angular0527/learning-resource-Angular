@@ -43,6 +43,7 @@
 - [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML.
 - [ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) - IntelliJ Plugin for Android Parcelable boilerplate code generation.
 - [gradle-android-javadoc-plugin](https://github.com/vanniktech/gradle-android-javadoc-plugin) - Gradle plugin to generate Javadoc
+- [findViewByMe](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160803072309%2Fhttp%3A%2F%2Fjaeger.itscoder.com%2Fandroid%2F2015%2F11%2F27%2Ffind-view-by-me.html) - A plugin for android developer, with the plugin you can generate "findViewById" code quickly.
 
 ### Android Studio Templates 
 - [Material-Template](https://github.com/kanytu/Android-studio-material-template) - Android-studio-material-template
