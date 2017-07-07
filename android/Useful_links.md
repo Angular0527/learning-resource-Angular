@@ -19,6 +19,7 @@
 ### JSON
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
+- [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java developed by Square Inc.
 
 ### Development tools
 - [JSON viewer](http://json.parser.online.fr/) - View JSON not response
