@@ -1,5 +1,7 @@
 Link | Author/Company
 ------------ | -------------
+[Machine Learning](https://www.coursera.org/learn/machine-learning) | Coursera
+[Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks) | Coursera
 [Intro to Machine Learning](https://in.udacity.com/course/intro-to-machine-learning--ud120) | Udacity
 [Machine Learning](https://in.udacity.com/course/machine-learning--ud262) | Georgia Institute of Technology
 [Machine Learning: Unsupervised Learning](https://in.udacity.com/course/machine-learning-unsupervised-learning--ud741) | Georgia Institute of Technology
