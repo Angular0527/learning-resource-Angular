@@ -9,3 +9,4 @@ Name | Link
 ------------ | ------------- 
 Introduction to Algorithms | https://www.amazon.com/dp/0262033844
 Algorithm Design | https://www.amazon.com/dp/0321295358
+Grokking Algorithms | http://www.amazon.in/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230
