@@ -70,7 +70,9 @@ dependencies {
     implementation eventbus
     implementation lottie
     implementation butterknife
-    annotationProcessor (butterknifeCompiler) {
+    annotationProcessor butterknifeCompiler
+    implementation(aboutlibraries) {
         transitive = true
     }
+
 }

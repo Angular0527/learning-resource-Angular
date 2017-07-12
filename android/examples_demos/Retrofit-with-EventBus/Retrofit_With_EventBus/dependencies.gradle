@@ -70,6 +70,7 @@ ext {
     retrofit2 = "com.squareup.retrofit2:retrofit:2.3.0"
     eventbus = "org.greenrobot:eventbus:3.0.0"
     lottie = "com.airbnb.android:lottie:2.0.0"
+    aboutlibraries = "com.mikepenz:aboutlibraries:5.9.6@aar"
 
     // butterknife
     butterknifeVersion = '8.7.0'
