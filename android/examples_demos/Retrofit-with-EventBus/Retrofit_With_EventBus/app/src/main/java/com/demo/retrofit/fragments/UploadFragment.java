@@ -2,14 +2,13 @@ package com.demo.retrofit.fragments;
 
 
 import android.app.AlertDialog;
-import android.content.DialogInterface;
+import android.app.Fragment;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.provider.MediaStore;
 import android.support.annotation.Nullable;
-import android.support.v4.app.Fragment;
 import android.support.v4.content.FileProvider;
 import android.text.TextUtils;
 import android.view.LayoutInflater;
@@ -90,8 +89,7 @@ public class UploadFragment extends BaseFragment {
      */
     // TODO: Rename and change types and number of parameters
     public static UploadFragment newInstance() {
-        UploadFragment fragment = new UploadFragment();
-        return fragment;
+        return new UploadFragment();
     }
 
     @Override
@@ -155,20 +153,9 @@ public class UploadFragment extends BaseFragment {
         AlertDialog.Builder chooseImageDialog = new AlertDialog.Builder(getActivity());
         chooseImageDialog.setTitle(chooseImageTitle);
         chooseImageDialog.setPositiveButton(chooseFromCamera,
-                new DialogInterface.OnClickListener() {
-                    @Override
-                    public void onClick(DialogInterface dialogInterface, int i) {
-                        startCamera();
-                    }
-                });
+                (dialogInterface, i) -> startCamera());
         chooseImageDialog.setNegativeButton(chooseFromGallery,
-                new DialogInterface.OnClickListener() {
-                    @Override
-                    public void onClick(DialogInterface dialogInterface,
-                                        int i) {
-                        openGallery();
-                    }
-                });
+                (dialogInterface, i) -> openGallery());
         chooseImageDialog.show();
     }
 
@@ -235,7 +222,7 @@ public class UploadFragment extends BaseFragment {
                 addImages(resultData.getData());
             } else {
                 if (resultData.getClipData() != null &&
-                    resultData.getClipData().getItemCount() > 0) {
+                        resultData.getClipData().getItemCount() > 0) {
                     for (int i = 0; i < resultData.getClipData().getItemCount(); i++) {
                         addImages(resultData.getClipData().getItemAt(i).getUri());
                     }
@@ -293,14 +280,19 @@ public class UploadFragment extends BaseFragment {
                     new PermissionResult() {
                         @Override
                         public void permissionGranted() {
+                            startCamera();
                         }
 
                         @Override
                         public void permissionDenied() {
+                            showSnackBar(imgUpload.getRootView(),
+                                    getString(R.string.str_allow_permission_for_image));
                         }
 
                         @Override
                         public void permissionForeverDenied() {
+                            showSnackBar(imgUpload.getRootView(),
+                                    getString(R.string.str_allow_permission_from_setting));
                         }
                     });
         }

@@ -1,14 +1,17 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+    compileSdkVersion 26
+    buildToolsVersion '26.0.0'
     defaultConfig {
         applicationId "com.demo.retrofit"
         minSdkVersion 19
-        targetSdkVersion 25
-        versionCode 1
-        versionName "1.0"
+        targetSdkVersion 26
+        versionCode 3
+        versionName "1.0.3"
+
+        // Jack options are deprecated now
+        // https://android-developers.googleblog.com/2017/03/future-of-java-8-language-feature.html
     }
 
     dexOptions {
@@ -19,39 +22,57 @@ android {
 
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+    flavorDimensions "string"
+
+    productFlavors {
+        mock {
+            applicationIdSuffix = ".mock"
+        }
+        prod {
+        }
+    }
+
+    // Remove mockRelease as it's not needed.
+    android.variantFilter { variant ->
+        if (variant.buildType.name.equals('release')
+                && variant.getFlavors().get(0).name.equals('mock')) {
+            variant.setIgnore(true)
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
     }
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
     //
-    compile supportDependencies.appCompat
+    implementation supportDependencies.appCompat
+    implementation supportDependencies.cardView
+    implementation supportDependencies.design
+    implementation supportDependencies.recyclerView
+    implementation supportDependencies.supportV4
+    implementation supportDependencies.supportV13
+    implementation supportDependencies.supportVectorDrawable
+    implementation supportDependencies.exifInterface
     //
-    compile supportDependencies.cardView
-    //
-    compile supportDependencies.design
-    //
-    compile supportDependencies.recyclerView
-    //
-    compile supportDependencies.supportV4
-    //
-    compile supportDependencies.supportVectorDrawable
-    //
-
-    compile 'com.github.bumptech.glide:glide:3.7.0'
-    compile 'com.google.code.gson:gson:2.8.0'
-    compile 'com.jakewharton:butterknife:8.5.1'
-    compile 'com.squareup.okhttp3:logging-interceptor:3.6.0'
-    compile 'com.squareup.retrofit2:converter-gson:2.2.0'
-    compile 'com.squareup.retrofit2:retrofit:2.2.0'
-    compile 'org.greenrobot:eventbus:3.0.0'
-    compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
-
-    compile('com.mikepenz:aboutlibraries:5.9.4@aar') {
+    implementation glide
+    implementation gson
+    implementation okhttp3LoggingInterceptor
+    implementation gsonConverter
+    implementation retrofit2
+    implementation eventbus
+    implementation lottie
+    implementation butterknife
+    annotationProcessor butterknifeCompiler
+    implementation(aboutlibraries) {
         transitive = true
     }
+
 }

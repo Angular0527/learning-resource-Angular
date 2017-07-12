@@ -151,7 +151,7 @@ public class ImageValidator {
             Bitmap bitmap = null;
 
             if (uri.toString() != null
-                && (uri.toString().contains("docs.file") || isPicasaPhotoUri(uri))) {
+                    && (uri.toString().contains("docs.file") || isPicasaPhotoUri(uri))) {
                 try {
                     InputStream inputStream = context.getContentResolver().openInputStream(uri);
                     bitmap = BitmapFactory.decodeStream(inputStream);
@@ -276,9 +276,6 @@ public class ImageValidator {
             imageData.compress(CompressFormat.JPEG, 100, bos);
             bos.flush();
             bos.close();
-        } catch (FileNotFoundException e) {
-            Log.e(LOGTAG, "Error saving image file: " + e.getMessage());
-            return false;
         } catch (IOException e) {
             Log.e(LOGTAG, "Error saving image file: " + e.getMessage());
             return false;

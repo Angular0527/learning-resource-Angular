@@ -13,7 +13,6 @@ import android.database.Cursor;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.net.Uri;
-import android.os.Build;
 import android.os.PowerManager;
 import android.provider.Settings;
 import android.provider.Settings.SettingNotFoundException;
@@ -106,8 +105,7 @@ public final class Helper {
         Date date;
         try {
             date = sourceFormat.parse(dateStr);
-            String formattedDate = targetFormat.format(date);
-            return formattedDate;
+            return targetFormat.format(date);
         } catch (ParseException e) {
             e.printStackTrace();
         }
@@ -163,12 +161,10 @@ public final class Helper {
         int i = 0;
 
         for (String item : list) {
-            semicolonSeparatedList += item;
-
+            semicolonSeparatedList = semicolonSeparatedList.concat(item);
             if (list.size() > i + 1) {
                 semicolonSeparatedList += ";";
             }
-
             i++;
         }
 
@@ -193,7 +189,6 @@ public final class Helper {
         if (view == null) {
             throw new IllegalArgumentException("view cannot be null");
         }
-
 
         InputMethodManager imm = (InputMethodManager) context.getSystemService(
                 Context.INPUT_METHOD_SERVICE);
@@ -382,7 +377,7 @@ public final class Helper {
         } catch (final NameNotFoundException ignored) {
         }
         return (String) (applicationInfo != null
-                         ? packageManager.getApplicationLabel(applicationInfo) : "Unknown");
+                ? packageManager.getApplicationLabel(applicationInfo) : "Unknown");
     }
 
     /**
@@ -411,13 +406,6 @@ public final class Helper {
     }
 
     /**
-     * @return true If the current system OS version is higher then HONEYCOMB[11]
-     */
-    public static boolean isHoneyCombOrHigher() {
-        return Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB;
-    }
-
-    /**
      * Show the activity over the lockscreen and wake up the device. If you launched the app
      * manually both of these conditions are already true. If you deployed from the IDE, however,
      * this will save you from hundreds of power button presses and pattern swiping per day!
@@ -426,13 +414,9 @@ public final class Helper {
         activity.getWindow().addFlags(WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED);
 
         PowerManager power = (PowerManager) activity.getSystemService(Context.POWER_SERVICE);
-        PowerManager.WakeLock lock = power.newWakeLock(PowerManager.FULL_WAKE_LOCK
-                                                       | PowerManager
-                                                               .ACQUIRE_CAUSES_WAKEUP |
-                                                       PowerManager.ON_AFTER_RELEASE,
-                "wakeup!");
+        PowerManager.WakeLock lock = power.newWakeLock(PowerManager.FULL_WAKE_LOCK | PowerManager.ACQUIRE_CAUSES_WAKEUP | PowerManager.ON_AFTER_RELEASE, "wakeup!");
 
-        lock.acquire();
+        lock.acquire(100000);
         lock.release();
     }
 
