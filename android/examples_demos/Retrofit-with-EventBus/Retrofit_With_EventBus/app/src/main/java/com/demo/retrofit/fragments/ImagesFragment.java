@@ -17,7 +17,6 @@ import com.demo.retrofit.adapters.MyImageRecyclerViewAdapter;
 import com.demo.retrofit.network.event.ApiErrorEvent;
 import com.demo.retrofit.network.event.ApiErrorWithMessageEvent;
 import com.demo.retrofit.network.response.ImageListResponse;
-import com.demo.retrofit.network.response.submodel.ImageResult;
 
 import org.greenrobot.eventbus.Subscribe;
 
@@ -71,7 +70,7 @@ public class ImagesFragment extends BaseFragment implements SwipeRefreshLayout.O
         if (getArguments() != null) {
             mColumnCount = getArguments().getInt(ARG_COLUMN_COUNT);
         }
-        mImageRecyclerViewAdapter = new MyImageRecyclerViewAdapter(new ArrayList<ImageResult>());
+        mImageRecyclerViewAdapter = new MyImageRecyclerViewAdapter(new ArrayList<>());
     }
 
     @Override

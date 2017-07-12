@@ -1,23 +1,26 @@
 ext {
-    //Version
-    supportLibrary = '25.3.0'
-    firebaseLibrary = '10.2.1'
-    playServicesLibrary = '10.2.1'
+    // Version
+    // supportLibrary = '26.0.0-beta2'
+    supportLibrary = '26.0.0-beta2'
+    firebaseLibrary = '11.0.2'
+    playServicesLibrary = '11.0.2'
 
-    //Support Libraries dependencies
+    // Support Libraries dependencies
     comAndroidSupport = 'com.android.support:'
     supportDependencies = [
             appCompat            : "${comAndroidSupport}appcompat-v7:${supportLibrary}",
+            annotations          : "${comAndroidSupport}support-annotations:${supportLibrary}",
             cardView             : "${comAndroidSupport}cardview-v7:${supportLibrary}",
             design               : "${comAndroidSupport}design:${supportLibrary}",
+            exifInterface        : "${comAndroidSupport}exifinterface:${supportLibrary}",
             palette              : "${comAndroidSupport}palette-v7:${supportLibrary}",
             recyclerView         : "${comAndroidSupport}recyclerview-v7:${supportLibrary}",
-            supportAnnotation    : "${comAndroidSupport}support-annotations:${supportLibrary}",
+            supportV13           : "${comAndroidSupport}support-v13:${supportLibrary}",
             supportV4            : "${comAndroidSupport}support-v4:${supportLibrary}",
             supportVectorDrawable: "${comAndroidSupport}support-vector-drawable:${supportLibrary}"
     ]
 
-    //Firebase Libraries dependencies
+    // Firebase Libraries dependencies
     comGoogleFirebase = 'com.google.firebase:firebase-'
     firebaseDependencies = [
             ads      : "${comGoogleFirebase}ads:${firebaseLibrary}",
@@ -31,7 +34,7 @@ ext {
             storage  : "${comGoogleFirebase}storage:${firebaseLibrary}"
     ]
 
-    //GMS  Play Libraries dependencies
+    // GMS  Play Libraries dependencies
     comGoogleAndroidGms = 'com.google.android.gms:play-services-'
     playServicesDependencies = [
             ads        : "${comGoogleAndroidGms}ads:${playServicesLibrary}",

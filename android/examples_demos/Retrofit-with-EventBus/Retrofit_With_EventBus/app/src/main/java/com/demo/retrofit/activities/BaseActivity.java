@@ -72,7 +72,7 @@ public class BaseActivity extends AppCompatActivity {
      */
     protected void centerTitle(Toolbar toolbar) {
         final CharSequence originalTitle = toolbar.getTitle();
-        TextView mTitle = (TextView) toolbar.findViewById(R.id.toolbarTitle);
+        TextView mTitle = toolbar.findViewById(R.id.toolbarTitle);
         mTitle.setText(originalTitle);
         getSupportActionBar().setDisplayShowTitleEnabled(false);
         toolbar.setTitle("");
@@ -92,17 +92,7 @@ public class BaseActivity extends AppCompatActivity {
 
     protected void showKeyBoardOnViewDelayed(final View v) {
 
-        new Handler().postDelayed(new Runnable() {
-            @Override
-            public void run() {
-                runOnUiThread(new Runnable() {
-                    @Override
-                    public void run() {
-                        showKeyBoardOnView(v);
-                    }
-                });
-            }
-        }, SHOW_KEYBOARD_DELAY);
+        new Handler().postDelayed(() -> runOnUiThread(() -> showKeyBoardOnView(v)), SHOW_KEYBOARD_DELAY);
     }
 
     /**
@@ -117,12 +107,7 @@ public class BaseActivity extends AppCompatActivity {
 
 
     protected void focusOnView(final ScrollView scrollView, final View v) {
-        new Handler().post(new Runnable() {
-            @Override
-            public void run() {
-                scrollView.smoothScrollTo(0, v.getBottom());
-            }
-        });
+        new Handler().post(() -> scrollView.smoothScrollTo(0, v.getBottom()));
     }
 
 
@@ -185,8 +170,8 @@ public class BaseActivity extends AppCompatActivity {
     @SuppressWarnings({"MissingPermission"})
     public boolean isPermissionGranted(Context context, String permission) {
         return (Build.VERSION.SDK_INT < Build.VERSION_CODES.M) ||
-               (ActivityCompat.checkSelfPermission(context, permission) ==
-                PackageManager.PERMISSION_GRANTED);
+                (ActivityCompat.checkSelfPermission(context, permission) ==
+                        PackageManager.PERMISSION_GRANTED);
     }
 
     /**

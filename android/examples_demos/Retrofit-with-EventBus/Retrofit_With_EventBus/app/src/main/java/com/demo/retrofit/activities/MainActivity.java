@@ -12,7 +12,7 @@ import com.demo.retrofit.adapters.ViewPagerAdapter;
 import com.demo.retrofit.fragments.ImagesFragment;
 import com.demo.retrofit.fragments.UploadFragment;
 import com.mikepenz.aboutlibraries.LibsBuilder;
-import com.mikepenz.aboutlibraries.ui.LibsSupportFragment;
+import com.mikepenz.aboutlibraries.ui.LibsFragment;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -60,21 +60,21 @@ public class MainActivity extends BaseActivity {
     }
 
     private void setupViewPager(ViewPager viewPager) {
-        ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
+        ViewPagerAdapter adapter = new ViewPagerAdapter(getFragmentManager());
 
         ImagesFragment imagesFragment = ImagesFragment.newInstance(2);
         UploadFragment uploadFragment = UploadFragment.newInstance();
-        LibsSupportFragment fragment = new LibsBuilder()
+        LibsFragment fragment = new LibsBuilder()
                 .withAboutIconShown(true)
                 .withAboutVersionShown(true)
                 .withAboutDescription(
                         "The sample mainly focused on how <b>Retrofit with EventBus</b> can work. " +
-                        "This project contains all the API handles. Also some extra utils included. " +
-                        "The sample project should be considered in action when you have to architect your own project with the All APIs.<br /><br />" +
-                        "One may find this structure bit complex but once got used to it, it'll be the matter of minutes to implement the APIs.<br /><br />" +
-                        "<a href='https://github.com/DearDhruv'>https://github.com/DearDhruv</a><br /><br />" +
-                        "Application and API created by <b><a href='https://www.linkedin.com/in/deardhruv/'>DearDhruv</a></b>")
-                .supportFragment();
+                                "This project contains all the API handles. Also some extra utils included. " +
+                                "The sample project should be considered in action when you have to architect your own project with the All APIs.<br /><br />" +
+                                "One may find this structure bit complex but once got used to it, it'll be the matter of minutes to implement the APIs.<br /><br />" +
+                                "<a href='https://github.com/DearDhruv'>https://github.com/DearDhruv</a><br /><br />" +
+                                "Application and API created by <b><a href='https://www.linkedin.com/in/deardhruv/'>DearDhruv</a></b>")
+                .fragment();
 
         adapter.addFragment(imagesFragment);
         adapter.addFragment(uploadFragment);

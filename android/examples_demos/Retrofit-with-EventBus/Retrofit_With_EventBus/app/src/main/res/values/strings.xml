@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Retrofit and Eventbus</string>
+    <string name="app_name">Retrofit with Eventbus</string>
 
     <string name="title_list">List</string>
     <string name="title_upload">Upload</string>
@@ -18,5 +19,11 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="str_plz_select_img">Please select Image to upload.</string>
+
+
+    <!--APIs-->
+    <string name="api_image_list">image_list.php</string>
+    <string name="api_upload">upload.php</string>
+    <string name="api_error">error_api</string>
 
 </resources>

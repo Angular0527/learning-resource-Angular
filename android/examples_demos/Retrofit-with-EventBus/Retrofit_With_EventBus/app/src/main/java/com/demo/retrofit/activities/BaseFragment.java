@@ -1,17 +1,25 @@
 package com.demo.retrofit.activities;
 
 
-import android.app.ProgressDialog;
+import android.app.Dialog;
+import android.app.Fragment;
 import android.content.Context;
 import android.content.pm.PackageManager;
+import android.graphics.drawable.ColorDrawable;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.annotation.NonNull;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.app.Fragment;
+import android.support.annotation.RequiresApi;
+import android.support.design.widget.Snackbar;
+import android.support.v13.app.FragmentCompat;
+import android.support.v4.content.ContextCompat;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.Window;
 import android.widget.Toast;
 
+import com.demo.retrofit.R;
 import com.demo.retrofit.RetroFitApp;
 import com.demo.retrofit.network.ApiClient;
 import com.demo.retrofit.utils.PermissionResult;
@@ -34,8 +42,11 @@ public class BaseFragment extends Fragment {
     private EventBus mEventBus;
     protected ApiClient mApiClient;
 
-    ProgressDialog dialog;
-    private Handler handler;
+    private Dialog mDialog;
+    private Handler mHandler;
+    private Context mContext;
+
+    private View mView;
 
     public BaseFragment() {
         // Required empty public constructor
@@ -70,40 +81,37 @@ public class BaseFragment extends Fragment {
      * Initialize Loading Dialog
      */
     protected void initDialog(Context context) {
-        dialog = new ProgressDialog(context); // this or YourActivity
-        dialog.setProgressStyle(ProgressDialog.STYLE_SPINNER);
-        dialog.setMessage("Please wait...");
-        dialog.setIndeterminate(true);
-        dialog.setCanceledOnTouchOutside(false);
-        handler = new Handler();
+        this.mContext = context;
+        mDialog = new Dialog(mContext); // this or YourActivity
+        mDialog.setCanceledOnTouchOutside(false);
+        mDialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
+        mDialog.getWindow().setBackgroundDrawable(
+                new ColorDrawable(android.graphics.Color.TRANSPARENT));
+
+        LayoutInflater inflater = LayoutInflater.from(mContext);
+        mView = inflater.inflate(R.layout.loader_layout, null, false);
+        mDialog.setContentView(mView);
+
+        mHandler = new Handler();
     }
 
     protected void dismissProgress() {
-        if (handler != null && dialog != null) {
-            handler.post(new Runnable() {
-                @Override
-                public void run() {
-                    dialog.dismiss();
-                }
-            });
+        if (mHandler != null && mDialog != null) {
+            mHandler.post(() -> mDialog.dismiss());
         }
     }
 
     protected void showProgress() {
-        if (handler != null && dialog != null) {
+        if (mHandler != null && mDialog != null) {
 
-            handler.post(new Runnable() {
-                @Override
-                public void run() {
-                    if (!dialog.isShowing()) {
-                        dialog.show();
-                    }
-//        hideKeyboard(edt);
+            mHandler.post(() -> {
+                if (!mDialog.isShowing()) {
+                    mDialog.show();
                 }
+//        hideKeyboard(edt);
             });
         }
     }
-
 
     /**
      * Check if the Application required Permission is granted.
@@ -115,8 +123,8 @@ public class BaseFragment extends Fragment {
     @SuppressWarnings({"MissingPermission"})
     public boolean isPermissionGranted(Context context, String permission) {
         return (Build.VERSION.SDK_INT < Build.VERSION_CODES.M) ||
-               (ActivityCompat.checkSelfPermission(context, permission) ==
-                PackageManager.PERMISSION_GRANTED);
+                (ContextCompat.checkSelfPermission(context, permission) ==
+                        PackageManager.PERMISSION_GRANTED);
     }
 
     /**
@@ -132,7 +140,7 @@ public class BaseFragment extends Fragment {
 
         boolean granted = true;
         for (String permission : permissions) {
-            if (!(ActivityCompat.checkSelfPermission(
+            if (!(ContextCompat.checkSelfPermission(
                     context, permission) == PackageManager.PERMISSION_GRANTED))
                 granted = false;
         }
@@ -164,17 +172,15 @@ public class BaseFragment extends Fragment {
 
             arrayPermissionNotGranted = new String[permissionsNotGranted.size()];
             arrayPermissionNotGranted = permissionsNotGranted.toArray(arrayPermissionNotGranted);
-            ActivityCompat.requestPermissions(getActivity(),
-                    arrayPermissionNotGranted, KEY_PERMISSION);
+            FragmentCompat.requestPermissions(this, arrayPermissionNotGranted, KEY_PERMISSION);
         }
     }
 
-
+    @RequiresApi(api = Build.VERSION_CODES.M)
     @Override
-    public void onRequestPermissionsResult(int requestCode,
-                                           @NonNull String[] permissions,
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions,
                                            @NonNull int[] grantResults) {
-
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         if (requestCode != KEY_PERMISSION) {
             return;
         }
@@ -195,7 +201,7 @@ public class BaseFragment extends Fragment {
                 permissionResult.permissionGranted();
             } else {
                 for (String s : permissionDenied) {
-                    if (!ActivityCompat.shouldShowRequestPermissionRationale(getActivity(), s)) {
+                    if (!shouldShowRequestPermissionRationale(s)) {
                         permissionResult.permissionForeverDenied();
                         return;
                     }
@@ -252,4 +258,7 @@ public class BaseFragment extends Fragment {
         super.onDestroy();
     }
 
+    public void showSnackBar(View layout, String msg) {
+        Snackbar.make(layout, msg, Snackbar.LENGTH_LONG).show();
+    }
 }

@@ -9,6 +9,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Multipart;
 import retrofit2.http.POST;
 import retrofit2.http.Part;
+import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 /**
@@ -18,10 +19,11 @@ import retrofit2.http.Query;
  * api calls here although they are URL encoded by retrofit automatically. We have to test this
  * thoroughly.
  */
-public interface APIService {
+public interface ApiService {
 
-    @GET("image_list.php")
-    Call<ImageListResponse> getImageList();
+    @GET("{endPoint}")
+    Call<ImageListResponse> getImageList(
+            @Path("endPoint") String endPoint);
 
     /**
      * Upload file to server
@@ -32,8 +34,9 @@ public interface APIService {
      * @return
      */
     @Multipart
-    @POST("upload.php")
+    @POST("{endPoint}")
     Call<AbstractApiResponse> uploadFile(
+            @Path("endPoint") String endPoint,
             @Query("first_name") String firstName,
             @Query("last_name") String lastName,
             @Part MultipartBody.Part image0);
