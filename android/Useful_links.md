@@ -10,7 +10,7 @@
 
 ### Debug
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
-- [Hugo] (https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
+- [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
 - [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android.
 - [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 - [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
@@ -72,7 +72,7 @@
 - [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android.
 - [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
 - [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
-- [Most memory efficient way to resize bitmaps on android?] (http://stackoverflow.com/questions/32121058/most-memory-efficient-way-to-resize-bitmaps-on-android) - An SO post by Colt McAnlis on most efficient way to resize bitmaps.
+- [Most memory efficient way to resize bitmaps on android?](http://stackoverflow.com/questions/32121058/most-memory-efficient-way-to-resize-bitmaps-on-android) - An SO post by Colt McAnlis on most efficient way to resize bitmaps.
 
 ### Application crash reporting
 - [Crashlytics](https://try.crashlytics.com/) with [Fabric kit](https://get.fabric.io/android) - A powerful crash reporting solution with statistics by Twitter
@@ -83,7 +83,7 @@
 
 
 ### Bluetooth
-- [RxAndroidBLE] (https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. It is backed by RxJava, implementing complicated APIs as handy reactive observables.
+- [RxAndroidBLE](https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. It is backed by RxJava, implementing complicated APIs as handy reactive observables.
 
 ### ORM NoSQL
 - [Realm](https://realm.io) - Realm is NoSQL Mobile Database
