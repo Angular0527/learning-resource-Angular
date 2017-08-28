@@ -182,7 +182,13 @@ You can call this repository as "Technology Gold mine" :)
 	* [Experts To Follow](Wordpress/experts_to_follow.md)
 	* [Useful Links](Wordpress/Useful_links.md)
 	* [Video Tutorials](Wordpress/video_tutorials.md)
-
+* [PHP](PHP)
+	* [Blogs](PHP/blogs.md)
+	* [Books](PHP/books.md)
+	* [Courses](PHP/courses.md)
+	* [Experts To Follow](PHP/experts_to_follow.md)
+	* [Useful Links](PHP/Useful_links.md)
+	* [Video Tutorials](PHP/video_tutorials.md)
 
 
 ### Contribution
