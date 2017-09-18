@@ -6,7 +6,8 @@
 - [Android Dev Reddit](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community.
 - [Google Developer Experts - Medium](https://medium.com/google-developer-experts) - Articles, tips/tricks and best practices by Google Developers Experts. It has posts for different technologies but you have to look for android specifically!
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Repository which has listed best practices for Beginner Android Developer
-- [Improt Java](http://importjava.org/) - Weekly Java & Android Newsletter
+- [Import Java](http://importjava.org/) - Weekly Java & Android Newsletter
+- [CodePath](http://guides.codepath.com/android) - CodePath Android Cliffnotes
 
 ### Debug
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
