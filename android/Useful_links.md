@@ -119,3 +119,6 @@
 - [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 - [tinybus](https://github.com/beworker/tinybus) - A lightweight and simple event bus optimized for Android.
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
+
+### Awesome Android Tips
+- [Awesome Android Tips](https://github.com/jiang111/awesome-android-tips/blob/master/README-en.md) 
