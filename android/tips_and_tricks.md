@@ -17,6 +17,7 @@ These are some of the tips and tricks shared by our fellow android developers!
 
 #### Android Studio shortcuts to boost coding speed
 - [Tricks as on Developer Website](http://developer.android.com/sdk/installing/studio-tips.html)
+- [Android Studio for Experts](https://www.youtube.com/watch?v=Y2GC6P5hPeA)
 
 
 #####IntelliJIDEA shortcuts 
