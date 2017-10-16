@@ -122,3 +122,6 @@
 
 ### Awesome Android Tips
 - [Awesome Android Tips](https://github.com/jiang111/awesome-android-tips/blob/master/README-en.md) 
+
+### Open Resources Android
+- [open resources](http://rizky.lecturer.pens.ac.id/android/) - an openly available directories containing usefull resources for android 
