@@ -9,3 +9,6 @@
  
  ### Video Tutorials
  * [Getting Started with Java](https://www.enggheads.com/#!lectureseries/1465637676467462) - Java Tutorials By Zen Softech
+
+### Useful Links
+ * [Java 9 resources](https://sm-dev.edutone.net/Java9/) - Java9 resources
