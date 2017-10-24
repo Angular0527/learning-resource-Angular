@@ -6,10 +6,12 @@
 - [Android Dev Reddit](https://www.reddit.com/r/androiddev/) - News for Android developers with the who, what, where when and how of the Android community.
 - [Google Developer Experts - Medium](https://medium.com/google-developer-experts) - Articles, tips/tricks and best practices by Google Developers Experts. It has posts for different technologies but you have to look for android specifically!
 - [Android Best Practices](https://github.com/futurice/android-best-practices) - Repository which has listed best practices for Beginner Android Developer
+- [Import Java](http://importjava.org/) - Weekly Java & Android Newsletter
+- [CodePath](http://guides.codepath.com/android) - CodePath Android Cliffnotes
 
 ### Debug
 - [Stetho](http://facebook.github.io/stetho/#integrations) - A debug bridge for Android applications
-- [Hugo] (https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
+- [Hugo](https://github.com/JakeWharton/hugo) - Annotation-triggered method call logging for your debug builds.
 - [Logger](https://github.com/orhanobut/logger) - Simple, pretty and powerful logger for android.
 - [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 - [LeakCanary](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
@@ -18,6 +20,7 @@
 ### JSON
 - [Gson](https://github.com/google/gson) - Gson is a Java library used for serializing and deserializing Java objects from and into JSON.
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
+- [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java developed by Square Inc.
 
 ### Development tools
 - [JSON viewer](http://json.parser.online.fr/) - View JSON not response
@@ -43,7 +46,11 @@
 - [android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) - Android Studio plug-in for generating ButterKnife injections from selected layout XML.
 - [ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) - IntelliJ Plugin for Android Parcelable boilerplate code generation.
 - [gradle-android-javadoc-plugin](https://github.com/vanniktech/gradle-android-javadoc-plugin) - Gradle plugin to generate Javadoc
+- [findViewByMe](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fweb.archive.org%2Fweb%2F20160803072309%2Fhttp%3A%2F%2Fjaeger.itscoder.com%2Fandroid%2F2015%2F11%2F27%2Ffind-view-by-me.html) - A plugin for android developer, with the plugin you can generate "findViewById" code quickly.
 
+### Android Studio Templates 
+- [Material-Template](https://github.com/kanytu/Android-studio-material-template) - Android-studio-material-template
+- [BaseProject-Template](https://github.com/WebMobTechnologies/AndroidTemplates) - Template for Base Project includes volley lib ,Image loading libs ,basic utils classes 
 
 ### Dependency Injection
 - [Dagger](https://github.com/square/Dagger) - Dependency injection framework for Java and Android.
@@ -66,15 +73,18 @@
 - [Android Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - Powerful and flexible library for loading, caching and displaying images on Android.
 - [Glide Transformations](https://github.com/wasabeef/glide-transformations) - An Android transformation library providing a variety of image transformations for Glide.
 - [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) - An Android transformation library providing a variety of image transformations for Picasso
-- [Most memory efficient way to resize bitmaps on android?] (http://stackoverflow.com/questions/32121058/most-memory-efficient-way-to-resize-bitmaps-on-android) - An SO post by Colt McAnlis on most efficient way to resize bitmaps.
+- [Most memory efficient way to resize bitmaps on android?](http://stackoverflow.com/questions/32121058/most-memory-efficient-way-to-resize-bitmaps-on-android) - An SO post by Colt McAnlis on most efficient way to resize bitmaps.
 
 ### Application crash reporting
 - [Crashlytics](https://try.crashlytics.com/) with [Fabric kit](https://get.fabric.io/android) - A powerful crash reporting solution with statistics by Twitter
 - [Crittercism](https://www.apteligent.com/) - Crittercism aka Apteligent - A powerful tool for crash reporting, user flows and service monitoring
 - [ACRA](https://github.com/ACRA/acra) - ACRA is a library enabling Android Application to automatically post their crash reports to a GoogleDoc form.
+- [Firebase Analytics](https://firebase.google.com/docs/analytics/#key_functions) - Firebase Analytics is a free app measurement solution that provides insight on app usage and user engagement.
+
+
 
 ### Bluetooth
-- [RxAndroidBLE] (https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. It is backed by RxJava, implementing complicated APIs as handy reactive observables.
+- [RxAndroidBLE](https://github.com/Polidea/RxAndroidBle) - RxAndroidBle is a powerful painkiller for Android's Bluetooth Low Energy headaches. It is backed by RxJava, implementing complicated APIs as handy reactive observables.
 
 ### ORM NoSQL
 - [Realm](https://realm.io) - Realm is NoSQL Mobile Database
@@ -109,3 +119,9 @@
 - [EventBus](https://github.com/greenrobot/EventBus) - Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
 - [tinybus](https://github.com/beworker/tinybus) - A lightweight and simple event bus optimized for Android.
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
+
+### Awesome Android Tips
+- [Awesome Android Tips](https://github.com/jiang111/awesome-android-tips/blob/master/README-en.md) 
+
+### Open Resources Android
+- [open resources](http://rizky.lecturer.pens.ac.id/android/) - an openly available directories containing usefull resources for android 
