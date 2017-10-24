@@ -13,3 +13,5 @@ TensorFlow Machine Learning Cookbook | https://www.amazon.com/dp/1786462168
 Hands-On Machine Learning with Scikit-Learn and TensorFlow | https://www.amazon.com/dp/1491962291
 Python Deep Learning | http://www.amazon.in/dp/1786464454
 Neural Networks and Deep Learning | http://neuralnetworksanddeeplearning.com/
+Deep Learning with Python | https://drive.google.com/open?id=0B7b31e1VkgaZNWhZMmZYakZBM0k
+
