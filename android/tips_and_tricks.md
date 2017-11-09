@@ -19,8 +19,10 @@ These are some of the tips and tricks shared by our fellow android developers!
 - [Tricks as on Developer Website](http://developer.android.com/sdk/installing/studio-tips.html)
 - [Android Studio for Experts](https://www.youtube.com/watch?v=Y2GC6P5hPeA)
 
+#### 10 tools to boost your Android productivity and hype
+- [10 tools which will boost your Android productivity and hype](https://hackernoon.com/10-tools-which-will-boost-your-android-productivity-and-hype-bea88e0bcd86)
 
-#####IntelliJIDEA shortcuts 
+#### IntelliJIDEA shortcuts 
 - [Cheatsheet for Mac users](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard_mac.pdf)
 - [Cheatsheet for Windows users](https://resources.jetbrains.com/assets/products/intellij-idea/IntelliJIDEA_ReferenceCard.pdf)
 
