@@ -1,6 +1,7 @@
 ## Tips and Tricks
 These are some of the tips and tricks shared by our fellow android developers!
 
+- [50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2) by Michal Bialas
 - [Avoiding cold starts on Android](http://saulmm.github.io/avoding-android-cold-starts) by Saúl Molinero
 - [Squeezing your Gradle builds](http://saulmm.github.io/squeezing-gradle-builds) by Saúl Molinero
 - [Gradle tips & tricks to survive the zombie apocalypse](https://medium.com/@cesarmcferreira/gradle-tips-tricks-to-survive-the-zombie-apocalypse-3dd996604341#.efkc4whmh) by César Ferreira
