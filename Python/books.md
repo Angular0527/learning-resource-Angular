@@ -16,3 +16,5 @@
 * [Hacking Ciphers - Security](http://www.amazon.in/Hacking-Secret-Ciphers-Python-Cryptography/dp/1482614375) - Cryptography, with python.
 * [Django by Example](https://www.packtpub.com/web-development/django-example) - Web Development fundamental with Django framework.
 * [Learning Django web development](http://shop.oreilly.com/product/9781783984404.do) - Basic guide to Django framework.
+* [Python Tutorial - Tutorials Point](https://drive.google.com/file/d/0B-naBPVFnJB-TDFVRjJiZnRyNzg/view?usp=sharing) - Basic guide to Python.
+* [Learn Python and upskill your business](https://drive.google.com/file/d/0B0PXG8NrnX0XTjBFZkszUjMtaWc/view?usp=sharing) - Recipes to upskill your business. Put your life on autopilot and make your business processes efficient with the magic and power of Python!
