@@ -121,7 +121,9 @@
 - [Drekkar](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
 
 ### Awesome Android Tips
-- [Awesome Android Tips](https://github.com/jiang111/awesome-android-tips/blob/master/README-en.md) 
-
-### Open Resources Android
+- [Awesome Android Tips](https://github.com/jiang111/awesome-android-tips/blob/master/README-en.md)
+- [Awesome Android Complete Refrence](https://github.com/amitshekhariitbhu/awesome-android-complete-reference) - Awesome Android Complete Refrence
+ 
+ ### Open Resources Android
 - [open resources](http://rizky.lecturer.pens.ac.id/android/) - an openly available directories containing usefull resources for android 
+
