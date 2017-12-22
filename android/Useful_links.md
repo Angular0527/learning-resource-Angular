@@ -113,6 +113,7 @@
 - [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [RetroLamda](https://github.com/evant/gradle-retrolambda) - This plugin will automatically build your java or android project with retrolambda, giving you [lambda](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) goodness on java 6 or 7. 
 - [Guava](https://github.com/google/guava) - The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
+- [ReDex](https://github.com/facebook/redex) - Android bytecode (dex) optimizer, It provides a framework for reading, writing, and analyzing .dex files
  
 ### Event Bus
 - [AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus) - A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc.
