@@ -1,1 +1,2 @@
 - [TheNewBoston](https://www.youtube.com/watch?v=-u-j7uqU7sI&list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_) - Node.js theNewBoston tutorials
+-[TheNetNinja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) -Node.js TheNetNinja tutorials for beegginers
