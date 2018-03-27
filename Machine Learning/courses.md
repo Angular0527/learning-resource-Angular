@@ -15,3 +15,4 @@ Link | Author/Company
 [AI & Deep Learning with TensorFlow](https://www.edureka.co/ai-deep-learning-with-tensorflow) | Edureka
 [TensorFlow: Getting Started](https://www.pluralsight.com/courses/tensorflow-getting-started) | PluralSight
 [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/) | CognitiveClass.ai
+[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) | Google
