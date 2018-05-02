@@ -14,4 +14,4 @@ Link | Description | Author/Company
 [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code) | Writing quality code that runs correctly and efficiently. | Coursera
 [Python Data Structures](https://www.coursera.org/learn/python-data) | Core data structures of the Python programming language. | Coursera
 [Learn Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) | Getting started with basic concepts of Python | DataCamp
-[Introduction to python and computing](http://spoken-tutorial.org/tutorial-search/?search_foss=Python&search_language=English) | Getting started with basic concepts of Python and statictics| DataCamp
+[Introduction to python and computing](http://spoken-tutorial.org/tutorial-search/?search_foss=Python&search_language=English) | Getting started with basic concepts of Python and statictics| Spoken tutorial IIT BOMBAY
