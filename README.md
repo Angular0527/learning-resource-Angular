@@ -1,7 +1,7 @@
 # Learning Resources
 An initiaitve by GDG Ahmedabad, for community and by community!
 
-We at GDG Ahmedabad are getting different queries (like I want to learn android development, where to start?, I want to integrate App Engine, how can start with it?) from our community members, so here we want to prepare a repository with all the useful resources/materials for every technologies that there are in market. 
+We at GDG Ahmedabad are getting different queries (like I want to learn android development, where to start?, I want to integrate App Engine, how can start with it?) from our community members, so here we want to prepare a repository with all the useful resources/materials for every technologies that there are in market.
 
 You can call this repository as "Technology Gold mine" :)
 
@@ -173,6 +173,10 @@ You can call this repository as "Technology Gold mine" :)
 	* [Podcast](Ruby/Podcast.md)
 	* [Tutorials](Ruby/tutorials.md)
 	* [Useful Links](Ruby/useful_links.md)
+* [Rust](Rust)
+  * [Blogs](Rust/blogs.md)
+	* [Books](Rust/books.md)
+	* [Useful Links](Rust/useful_links.md)
 * [RxJava](RxJava)
 	* [Blogs](RxJava/blogs.md)
 	* [Books](RxJava/books.md)
