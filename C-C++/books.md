@@ -8,4 +8,5 @@
  * [Modern C++ Design](http://www.amazon.in/Modern-Design-Generic-Programming-Patterns/dp/0201704315) - Advance level C++ guide for modern code design. 
  * [MFC Programming with Visual C++](http://www.amazon.in/Visual-C-MFC-Programming-Example/dp/0879305444) - Programming guide to MFC GUI framework.
  * [Secure Programming CookBook](http://www.amazon.com/Secure-Programming-Cookbook-Cryptography-Authentication/dp/0596003943) - Cookbook for securing C++ Code, Introduction to Cryptography.
+ * .[Let us C++](https://www.amazon.in/Let-Us-Yashavant-P-Kanetkar/dp/8176561061) - Basics of C++ written in simple english,easy to understand.
  
