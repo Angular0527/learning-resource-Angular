@@ -14,3 +14,7 @@
 - [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
 - [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
 - [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
+  
+### Udemy paid courses:
+  
+  - [The Complete Android N Developer Course by Rob Percival (Best Seller)](https://www.udemy.com/complete-android-n-developer-course/)
