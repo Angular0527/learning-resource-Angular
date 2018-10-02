@@ -14,3 +14,4 @@ Git for Designers (No knowledge of version control? No problem.) | http://web.ar
 Git for Computer Scientists (A quick introduction to Git internals for people who aren't scared by words like Directed Acyclic Graph.) | http://eagain.net/articles/git-for-computer-scientists/
 git-draw (git-draw is a small tool that draws nearly the full content of a tiny git repository as a graph. It helps people with an engineering background learning Git's internals.) | https://github.com/sensorflo/git-draw/wiki
 A Hacker's Guide to Git ( for those wanting to learn git with a solid foundation) | https://wildlyinaccurate.com/a-hackers-guide-to-git/
+Top Tutorials To Learn Git For Beginners | https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5
