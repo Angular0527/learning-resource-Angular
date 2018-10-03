@@ -13,4 +13,4 @@ Ry’s Git Tutorial (A hands-on introduction to the entire Git porcelain.) | htt
 Git for Designers (No knowledge of version control? No problem.) | http://web.archive.org/web/20150301060509/http://hoth.entp.com/output/git_for_designers.html
 Git for Computer Scientists (A quick introduction to Git internals for people who aren't scared by words like Directed Acyclic Graph.) | http://eagain.net/articles/git-for-computer-scientists/
 git-draw (git-draw is a small tool that draws nearly the full content of a tiny git repository as a graph. It helps people with an engineering background learning Git's internals.) | https://github.com/sensorflo/git-draw/wiki
-
+Git Tutorial | https://www.tutorialspoint.com/git/
