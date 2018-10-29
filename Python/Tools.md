@@ -21,3 +21,8 @@ Testing
 
 - [pyUnit](https://wiki.python.org/moin/PyUnit) - Unit testing library for python.
 - [zopeTesting](www.python.org/pypi/zope.testing) - Provides a powerful test runner that supports test discovery and a wide range of options to control how tests are run and results reported. 
+
+Python Data Science Platform
+-----------------------------
+
+- [Anaconda](https://www.anaconda.com/) - Anaconda is a an open source distribution of the Python and R programming languages and it is used in data science, machine learning, deep learning-related applications  aiming at simplifying package management and deployment
