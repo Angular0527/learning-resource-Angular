@@ -13,3 +13,4 @@ Link | Author
 [Gradle + App Engine + Cloud Endpoints + Android Studio](http://rominirani.com/2014/08/25/gradle-tutorial-part-8-gradle-app-engine-endpoints-android-studio/) | Romin Irani
 [Gradle + App Engine + Cloud Endpoints (Persistence) + Android Studio](http://rominirani.com/2014/08/26/gradle-tutorial-part-9-cloud-endpoints-persistence-android-studio/) | Romin Irani
 [Consuming Endpoints in your Android application](http://rominirani.com/2014/08/27/gradle-tutorial-part-10-consuming-endpoints-in-android-code/) | Romin Irani
+[How Kotlin makes editing your Gradle build less frustrating](https://blog.kotlin-academy.com/gradle-kotlin-the-missing-piece-of-the-puzzle-7528a85f0d2c) | Jean-Michel Fayard
