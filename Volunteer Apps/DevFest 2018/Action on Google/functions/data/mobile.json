@@ -1,0 +1,32 @@
+{
+  "1": {
+    "time": "11:15",
+    "title": "New way of doing things in Android",
+    "duration": "1 hour",
+    "speaker": "Aimanzaki Kagzi and Dhruv Patel"
+  },
+  "2": {
+    "time": "12:15",
+    "title": "Efficient Async with Kotlin Coroutines",
+    "duratiom": "1 hour",
+    "speaker": "Rivu Chakrborty"
+  },
+  "3": {
+    "time": "14:30",
+    "title": "Exploring Firebase MLkit on Android",
+    "duration": "1 hour",
+    "speaker": "Hiren Dave"
+  },
+  "4": {
+    "time": "15:30",
+    "title": "Android Application Security Testing",
+    "duration": "1 hour",
+    "speaker": "Smit Shah"
+  },
+  "5": {
+    "time": "16:45",
+    "title": "How to build Reactive Architecture for Flutter",
+    "duration": "1 hour",
+    "speaker": "Burhanuddin Rashid"
+  }
+}

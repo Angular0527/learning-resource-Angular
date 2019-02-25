@@ -1,0 +1,31 @@
+[debug] [2018-10-02T12:01:08.815Z] ----------------------------------------------------------------------
+[debug] [2018-10-02T12:01:08.817Z] Command:       /usr/bin/node /usr/bin/firebase deploy
+[debug] [2018-10-02T12:01:08.817Z] CLI Version:   4.2.1
+[debug] [2018-10-02T12:01:08.817Z] Platform:      linux
+[debug] [2018-10-02T12:01:08.817Z] Node Version:  v10.11.0
+[debug] [2018-10-02T12:01:08.818Z] Time:          Tue Oct 02 2018 17:31:08 GMT+0530 (India Standard Time)
+[debug] [2018-10-02T12:01:08.818Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-10-02T12:01:08.824Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-10-02T12:01:08.824Z] > authorizing via signed-in user
+[debug] [2018-10-02T12:01:08.826Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2018-10-02T12:01:08.826Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+
+[debug] [2018-10-02T12:01:09.230Z] <<< HTTP RESPONSE 200
+[debug] [2018-10-02T12:01:09.236Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/gdg-ahmedabad-devfest  
+ 
+[debug] [2018-10-02T12:01:10.889Z] <<< HTTP RESPONSE 200
+[debug] [2018-11-02T17:04:07.774Z] ----------------------------------------------------------------------
+[debug] [2018-11-02T17:04:07.778Z] Command:       /usr/bin/node /usr/bin/firebase deploy
+[debug] [2018-11-02T17:04:07.778Z] CLI Version:   6.0.1
+[debug] [2018-11-02T17:04:07.778Z] Platform:      linux
+[debug] [2018-11-02T17:04:07.778Z] Node Version:  v10.12.0
+[debug] [2018-11-02T17:04:07.779Z] Time:          Fri Nov 02 2018 22:34:07 GMT+0530 (India Standard Time)
+[debug] [2018-11-02T17:04:07.779Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-11-02T17:04:07.793Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-11-02T17:04:07.794Z] > authorizing via signed-in user
+[debug] [2018-11-02T17:04:07.794Z] [iam] checking project gdg-ahmedabad-devfest for permissions ["cloudfunctions.functions.create","cloudfunctions.functions.delete","cloudfunctions.functions.get","cloudfunctions.functions.list","cloudfunctions.functions.update","cloudfunctions.operations.get","firebase.projects.get"]
+[debug] [2018-11-02T17:04:07.796Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2018-11-02T17:04:07.796Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>

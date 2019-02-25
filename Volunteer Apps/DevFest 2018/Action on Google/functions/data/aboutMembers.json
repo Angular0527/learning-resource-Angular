@@ -1,0 +1,44 @@
+{
+  "Paresh Mayani": {
+    "intro": "Paresh Mayani is the founder and organizer of GDG Ahmedabad. He has about 8 years of experince in Android development. He currently works at Simform Solution as Practice Head.",
+    "linkedin": "https://www.linkedin.com/in/pareshmayani/",
+    "twitter": "https://twitter.com/pareshmayani",
+    "image": "https://pbs.twimg.com/profile_images/447806646228488193/52264v-L_400x400.jpeg"
+  },
+  "Dhrumil Shah": {
+    "intro": "Dhrumil Shah is a co-organizer at GDG Ahmedabad. He currently works at Shipmnts as Mobile application developer.",
+    "linkedin": "https://www.linkedin.com/in/dhuma1981/",
+    "twitter": "https://twitter.com/dhuma1981",
+    "image": "https://pbs.twimg.com/profile_images/654186562230468608/xEBDps3u_400x400.jpg"
+  },
+  "Pratik Patel": {
+    "intro": "Pratik Patel is a co-organizer at GDG Ahmedabad. He currently works at TheRedSpace.",
+    "linkedin": "https://twitter.com/patel8490",
+    "twitter": "https://twitter.com/patel8490",
+    "image": "https://pbs.twimg.com/profile_images/1011441747073757184/QYXDujoz_400x400.jpg"
+  },
+  "Chintan Rathod": {
+    "intro": "Chintan Rathod is a co-organizer at GDG Ahmedabad. He is working as a Android Team Lead in a MNC company at Ahmedabad.",
+    "linkedin": "https://www.linkedin.com/in/chintan-rathod",
+    "twitter": "https://twitter.com/chintanrathod16",
+    "image": "https://pbs.twimg.com/profile_images/987564553536921600/HMQDpWmE_400x400.jpg"
+  },
+  "Jaldeep Asodariya": {
+    "intro": "Jaldeep Asodariya is a Core Organizing Team Member at GDG Ahmedabad. He is an Android Developer at JB Solutions. ",
+    "linkedin": "https://www.linkedin.com/in/jaldeep-jd-asodariya-a4399b5a/",
+    "twitter": "https://twitter.com/JaldeepAsodariy",
+    "image": "https://pbs.twimg.com/profile_images/898486597175263232/U_9clmww_400x400.jpg"
+  },
+  "Dhruva Shastri": {
+    "intro": "Dhruva Shastri is woman in tech woman in tech and playing a role as an organizer and WTM Lead at GDG/WTM Ahmedabad, enthusiast about emboldening women in every sphere of their life and I enjoy people’s synergy. She is an Android Developer at Echo Innovate IT",
+    "linkedin": "https://www.linkedin.com/in/dhruvashastri12/",
+    "twitter": "https://twitter.com/dhruvashastri12",
+    "image": "https://pbs.twimg.com/profile_images/972084540679241729/XyWmFtij_400x400.jpg"
+  },
+  "Utpal Betai": {
+    "intro": "Utpal Betai is an assistant organizer at GDG Ahmedbad. He is working as project manager at SoluLab Inc.",
+    "linkedin": "https://www.linkedin.com/in/utpalbetai/",
+    "twitter": "https://twitter.com/utpalbetai",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7"
+  }
+}
