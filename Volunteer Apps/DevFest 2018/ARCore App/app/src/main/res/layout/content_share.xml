@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.gdgahmedabad.arcore.ui.ShareActivity"
+    tools:showIn="@layout/activity_share">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3">
+
+        <com.github.chrisbanes.photoview.PhotoView
+            android:id="@+id/img_pic"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/btn_fb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Share"
+                app:backgroundTint="@color/facebook"
+                app:icon="@drawable/ic_facebook" />
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/btn_twitter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="Tweet"
+                app:backgroundTint="@color/twitter"
+                app:icon="@drawable/twitter" />
+
+
+        </LinearLayout>
+
+        <android.support.design.button.MaterialButton
+            android:id="@+id/btn_whatsapp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Message"
+            app:backgroundTint="@color/whatsapp"
+            app:icon="@drawable/whatsapp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/btn_other"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="Share"
+                app:backgroundTint="@color/colorPrimary"
+                app:icon="@drawable/share" />
+
+            <android.support.design.button.MaterialButton
+                android:id="@+id/btn_open"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="Gallery"
+                app:backgroundTint="@color/other"
+                app:icon="@drawable/ic_photo_library" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

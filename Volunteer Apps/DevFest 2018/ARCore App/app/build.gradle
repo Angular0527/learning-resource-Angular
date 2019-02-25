@@ -1,0 +1,100 @@
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+android {
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.gdgahmedabad.arcore"
+        minSdkVersion 24
+        targetSdkVersion 28
+        versionCode 2
+        versionName "2.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    //noinspection GradleCompatible
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support:design:28.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    implementation 'com.google.ar.sceneform:core:1.5.1'
+    implementation 'com.google.ar.sceneform.ux:sceneform-ux:1.5.1'
+    implementation 'gun0912.ted:tedpermission:1+'
+    implementation 'com.google.firebase:firebase-core:16.0.5'
+    implementation 'com.github.chrisbanes:PhotoView:2.0.0'
+
+    compile('com.crashlytics.sdk.android:answers:1.4.4@aar') {
+        transitive = true;
+    }
+}
+apply plugin: 'com.google.ar.sceneform.plugin'
+apply plugin: 'com.google.gms.google-services'
+
+
+sceneform.asset('ar_data/models/flutter_final.obj',
+        'default',
+        'ar_data/models/flutter_final.sfa',
+        'src/main/res/raw/flutter_final')
+
+sceneform.asset('ar_data/models/firebase1.obj',
+        'default',
+        'ar_data/models/firebase1.sfa',
+        'src/main/res/raw/firebase1')
+
+sceneform.asset('ar_data/models/google-cloud_final.obj',
+        'default',
+        'ar_data/models/google-cloud_final.sfa',
+        'src/main/res/raw/google_cloud_final')
+
+sceneform.asset('ar_data/models/gdg_final.obj',
+        'default',
+        'ar_data/models/gdg_final.sfa',
+        'src/main/res/raw/gdg_final')
+
+sceneform.asset('ar_data/models/dialogflow.obj',
+        'default',
+        'ar_data/models/dialogflow.sfa',
+        'src/main/res/raw/dialogflow')
+
+sceneform.asset('ar_data/models/angular.fbx',
+        'default',
+        'ar_data/models/angular.sfa',
+        'src/main/res/raw/angular1')
+
+sceneform.asset('ar_data/models/nodejs.fbx',
+        'default',
+        'ar_data/models/nodejs.sfa',
+        'src/main/res/raw/nodejs')
+
+sceneform.asset('ar_data/models/devfest_final.obj',
+        'default',
+        'ar_data/models/devfest_final.sfa',
+        'src/main/res/raw/devfest_final')
+
+sceneform.asset('ar_data/models/gdg_full_final.obj',
+        'default',
+        'ar_data/models/gdg_full_final.sfa',
+        'src/main/res/raw/gdg_full_final')
+
+sceneform.asset('ar_data/models/andy.obj',
+        'default',
+        'ar_data/models/andy.sfa',
+        'src/main/res/raw/andy')
