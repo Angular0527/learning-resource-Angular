@@ -1,0 +1,156 @@
+{
+  "Karthik Padmanabhan": {
+    "intro": "Developer Relations Program Lead at Google India",
+    "gender": "Male",
+    "type": "Keynote-2",
+    "topic": "Google Cloud, Machine Learning",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fkarthik_padmanabhan.jpg?alt=media&token=cc6275c7-a182-471a-9b39-4af99adc0250"
+  },
+  "Biswajeet Malik": {
+    "intro": "Lead for DevRel Communities Programs at Google India",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "A discussion on design and fairness in the world of ML",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fbiswajeet_malik.jpg?alt=media&token=d4965775-8561-42c5-9c79-85f5ca7f11bb"
+  },
+  "Paresh Mayani": {
+    "intro": "Practice Head at Simform Solution",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "GDG Devfest Ahmedabad 2018 Opening",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fparesh_mayani.jpg?alt=media&token=c385c8e4-0803-4459-a444-cb0591570bb4"
+  },
+  "Dhrumil Shah": {
+    "intro": "Mobile Developer at Shipments",
+    "gender": "Male",
+    "type": "CodeLab",
+    "topic": "Flutter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Fdhrumil_shah.png?alt=media&token=ace67ade-7dca-447d-81a2-8155c3345468"
+  },
+  "Utpal Betai": {
+    "intro": "Senior Project Manager at SoluLab",
+    "gender": "Male",
+    "type": "Keynote-1",
+    "topic": "",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fcore-team%2Futpal_betai.png?alt=media&token=9aea40f8-f9b9-4e07-a3d9-345af53830e7"
+  },
+  "Neha Sharama": {
+    "intro": "Front End Architect",
+    "gender": "Female",
+    "type": "Lecture",
+    "topic": "Web for all - Accessibility",
+    "image": "https://pbs.twimg.com/profile_images/761985373023170560/Pv4Njhvt_400x400.jpg"
+  },
+  "Rivu Chakrborty": {
+    "intro": "Senior Software Engineer at BYJU'S",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "Efficient Async with Kotlin Coroutines",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Frivu_chakrborty.jpg?alt=media&token=d6eebe59-5f94-4c2a-9afc-abf78421804a"
+  },
+  "Burhanuddin Rashid": {
+    "intro": "Application Developer at Technogise",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "How to build Reactive Architecture for Flutter",
+    "image": "https://pbs.twimg.com/profile_images/964912367187451909/_2NQ6r6-_400x400.jpg"
+  },
+  "Krupa Galiya": {
+    "intro": "IT engineering Student",
+    "gender": "Female",
+    "type": "CodeLab",
+    "topic": "Machine Learning",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fkrupa_galiya.jpg?alt=media&token=0a45187a-3ec9-4433-9b66-7a31927b2859"
+  },
+  "Parth Jansari": {
+    "intro": "Freelancer",
+    "gender": "Male",
+    "type": "CodeLab",
+    "topic": "Flutter",
+    "image": "https://pbs.twimg.com/profile_images/1053287322890850310/XICr3aoR_400x400.jpg"
+  },
+  "Charmi Chokshi": {
+    "intro": "ICT engineering Student",
+    "gender": "Female",
+    "type": "CodeLab",
+    "topic": "Machine Learning",
+    "image": "https://pbs.twimg.com/profile_images/1051334493175345152/CywdQjIk_400x400.jpg"
+  },
+  "Hiren Dave": {
+    "intro": "Self Employed Consultant",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "Exploring Firebase MLKit on Android",
+    "image": "https://pbs.twimg.com/profile_images/1016565345467883526/_wPcpBBy_400x400.jpg"
+  },
+  "Jaldeep Asodariya": {
+    "intro": "Android Developer at Jain Bhavesh Solutions",
+    "gender": "Male",
+    "type": "CodeLab",
+    "topic": "Actions on Google",
+    "image": "https://pbs.twimg.com/profile_images/898486597175263232/U_9clmww_400x400.jpg"
+  },
+  "Aimanzaki Kagzi": {
+    "intro": "Software Engineer at AimCrafters",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "New way of doing things in Android",
+    "image": "https://pbs.twimg.com/profile_images/511854005102714880/dzK5Dgd8_400x400.jpeg"
+  },
+  "Dhruv Patel": {
+    "intro": "Senior Software Engineer at Reliance Jio",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "New way of doing things in Android",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Faimanzaki_kagzi.jpg?alt=media&token=1ce44fff-fee0-456e-bbd5-226540d55f57"
+  },
+  "Smit Shah": {
+    "intro": "Co-founder & CEO at eSecurify Technologies",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "Android Application Security Testing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fsmit_shah.jpg?alt=media&token=70497d3c-0b6b-49e6-b163-def119bed1b0"
+  },
+  "Shubham Pachori": {
+    "intro": "Product Manager at Shipmnts",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "Designing addictive Web Apps",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fshubham_pachori.jpg?alt=media&token=aba4d75d-0096-4e0c-a511-16ca9d3d9f60"
+  },
+  "Mohammad Shahbaz Alam": {
+    "intro": "Auth0, Developer Evangelist",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "Severless API creation and deployment using Google Cloud",
+    "image": "https://pbs.twimg.com/profile_images/1039175849520447490/D-WmSA6__400x400.jpg"
+  },
+  "Bhavik Makwana": {
+    "intro": "Application Developer at MultiDots Solutions",
+    "gender": "Male",
+    "type": "CodeLab",
+    "topic": "Flutter",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fbhavik_makwana.jpg?alt=media&token=9aa45f5e-c05c-4d03-b671-b6173a3889eb"
+  },
+  "Nimesh Solanki": {
+    "intro": "ICT engineering student",
+    "gender": "Male",
+    "type": "CodeLab",
+    "topic": "Actions on Google",
+    "image": "https://pbs.twimg.com/profile_images/1023523017287032832/1FdxVvcY_400x400.jpg"
+  },
+  "Juhil Somaiya": {
+    "intro": "Junior Application Engineer at Odoo India",
+    "gender": "Male",
+    "type": "CodeLab",
+    "topic": "Actions on Google",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fjuhil_somaiya.jpg?alt=media&token=f79b21a0-7192-40d6-802d-81540cb196b9"
+  },
+  "Anil Sahu": {
+    "intro": "Engineering Lead at Codal",
+    "gender": "Male",
+    "type": "Lecture",
+    "topic": "Lighthouse for Chrome: Find your way to Faster Web Apps",
+    "image": "https://firebasestorage.googleapis.com/v0/b/devfestahm-develop.appspot.com/o/images%2Fpeople%2Fspeakers%2Fanil_shahu.jpeg?alt=media&token=07b161c8-6daa-4ebc-baf4-f78bc3c1be80"
+  }
+}

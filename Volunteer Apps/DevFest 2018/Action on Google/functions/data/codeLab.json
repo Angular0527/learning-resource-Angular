@@ -1,0 +1,20 @@
+{
+  "1": {
+    "time": "11:15",
+    "title": "CodeLab - Machine Learning",
+    "duration": "2 hours",
+    "speaker": "Krupa Galiya and Charmi Chokshi"
+  },
+  "2": {
+    "time": "14:30",
+    "title": "CodeLab - Flutter",
+    "duration": "2 hours",
+    "speaker": "Parth Jansari, Bhavik Makwana and Dhrumil Shah"
+  },
+  "3": {
+    "time": "16:45",
+    "title": "CodeLab - Actions on Google",
+    "duration": "1 hour 45 mins",
+    "speaker": "Jaldeep Asodariya, Juhil Somaiya and Nimesh Solanki"
+  }
+}
