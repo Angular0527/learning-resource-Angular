@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gdgahmedabad.arcore.ui.ArActivity">
+
+    <fragment
+        android:id="@+id/ar_fragment"
+        android:name="com.gdgahmedabad.arcore.ui.CustomArFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_pick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:fabSize="mini"
+        app:srcCompat="@drawable/ic_action_layers_black" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_clear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="@dimen/fab_margin"
+        app:fabSize="mini"
+        app:srcCompat="@drawable/ic_clear_all" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_take_photo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:layout_marginLeft="@dimen/fab_margin"
+        android:layout_marginTop="70dp"
+        android:layout_marginRight="@dimen/fab_margin"
+        android:layout_marginBottom="@dimen/fab_margin"
+        app:fabSize="normal"
+        app:srcCompat="@drawable/ic_camera" />
+
+    <FrameLayout
+        android:id="@+id/pic_flash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:visibility="gone" />
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "291823002750",
+    "firebase_url": "https://gdgarcore.firebaseio.com",
+    "project_id": "gdgarcore",
+    "storage_bucket": "gdgarcore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291823002750:android:6b21b568feff4aa1",
+        "android_client_info": {
+          "package_name": "com.gdgahmedabad.arcore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291823002750-ki8aioci4gq0v7tth93j6mfo34lnm95l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdgahmedabad.arcore",
+            "certificate_hash": "65368ad86c4f4b1b9460bffc54602bd9b5aa3015"
+          }
+        },
+        {
+          "client_id": "291823002750-nqf0uhsj73cd3v35ie92hbftgs5hj46l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdgahmedabad.arcore",
+            "certificate_hash": "d6ad410f99618ad4ba3ebdf40db50d53084dcfbf"
+          }
+        },
+        {
+          "client_id": "291823002750-q95srd6umlhrdj5eualip3vtqrshqdt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCMATF3nEZGbQpbq1POsyfyftRKHc4-Aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291823002750-q95srd6umlhrdj5eualip3vtqrshqdt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
