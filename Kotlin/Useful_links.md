@@ -6,3 +6,4 @@
 - [Javalin](https://javalin.io/) - A simple web framework for Java and Kotlin
 - [Kotlin Tutorial](https://www.javatpoint.com/kotlin-tutorial) - learn Kotlin From Beginning
 - [Simple Blockchain in Kotlin](https://amarszalek.net/blog/2018/03/20/simple-blockchain-in-kotlin/) - simple blockchain in Kotlin
+- [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) - LiveVideo course about Kotlin: functional programming, object orientation and building an Android app in Kotlin.
