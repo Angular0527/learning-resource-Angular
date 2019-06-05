@@ -6,6 +6,7 @@
 - [GoogleCloudPlatform (@googlecloud) | Twitter](https://twitter.com/googlecloud) 
 - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/) - Product updates, customer stories, and tips and tricks on Google Cloud Platform
 - [You have $700 GCP Credit … Now What?](https://rominirani.com/you-have-700-gcp-credit-now-what-9a0defd8f6b9) - Ways to use GCP Credit, also applies to $300 Free Tier GCP Credit
+- [Beginner's Guide for Creating a Serverless REST API using NodeJS over Google Cloud Functions](https://dev.to/levivm/creating-a-serverless-rest-api-using-google-cloud-functions-firebasefirestore-in-10-min-37km) - Beginner's Guide for Creating a Serverless REST API using NodeJS over Google Cloud Functions
 
 #### Developer Communities:
 Join the community of Google Cloud Platform software developers and system administrators, and learn from your peers how to get the most out of Google Cloud Platform technologies. Use the Stack Overflow links below for technical questions about software development, the Server Fault links for technical questions about system and network administration, and the Google Group links for all posts that are not technical questions.
