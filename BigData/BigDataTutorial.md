@@ -18,3 +18,4 @@
 - [Cloudera Hadoop Certification](http://www.cloudera.com/training/certification.html) 
 - [Mapr Hadoop Certification](https://www.mapr.com/services/mapr-academy/certified-hadoop-developer)
 - [Hortonworks Certification](http://hortonworks.com/training/certification/)
+- [Elasticsearch 7 and Elastic Stack](https://www.manning.com/livevideo/elasticsearch-7-and-elastic-stack)
