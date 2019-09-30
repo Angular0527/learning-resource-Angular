@@ -9,4 +9,4 @@
  * [MFC Programming with Visual C++](http://www.amazon.in/Visual-C-MFC-Programming-Example/dp/0879305444) - Programming guide to MFC GUI framework.
  * [Secure Programming CookBook](http://www.amazon.com/Secure-Programming-Cookbook-Cryptography-Authentication/dp/0596003943) - Cookbook for securing C++ Code, Introduction to Cryptography.
  * .[Let us C++](https://www.amazon.in/Let-Us-Yashavant-P-Kanetkar/dp/8176561061) - Basics of C++ written in simple english,easy to understand.
- 
+ * .[Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus) - Advanced C++ topics, seen under FP lense. Very well explained.
