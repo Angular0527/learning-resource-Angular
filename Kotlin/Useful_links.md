@@ -8,3 +8,4 @@
 - [Simple Blockchain in Kotlin](https://amarszalek.net/blog/2018/03/20/simple-blockchain-in-kotlin/) - simple blockchain in Kotlin
 - [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) - LiveVideo course about Kotlin: functional programming, object orientation and building an Android app in Kotlin.
 - [Building Spring Boot Applications with the Kotlin Programming Language](https://www.manning.com/livevideo/building-spring-boot-applications-with-the-kotlin-programming-language) - LiveVideo course that teaches you to write clean, concise, easily maintainable Kotlin code using Spring Boot. 
+- [Awesome Kotlin Resources](https://kotlin.link/) - Awesome Kotlin Resources
