@@ -16,4 +16,7 @@ Link | Author/Company
 [TensorFlow: Getting Started](https://www.pluralsight.com/courses/tensorflow-getting-started) | PluralSight
 [Deep Learning with TensorFlow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/) | CognitiveClass.ai
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/) | Google
-[Machine Learning A-Z udemy Free videos source](https://drive.google.com/uc?id=1M6RFPBK3EoBNOiIwEyE1RcK4t9PAoSfO&export=download) | UDEMY
+[Machine Learning A-Z udemy Free videos source](https://drive.google.com/uc?id=1M6RFPBK3EoBNOiIwEyE1RcK4t9PAoSfO&export=download) | Udemy
+[Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)| Udemy
+[Deep Learning for Coders](https://course18.fast.ai/ml)|Fast.ai
+[Python Data Science](https://www.coursera.org/specializations/data-science-python)|Coursera
