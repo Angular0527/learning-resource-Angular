@@ -8,6 +8,7 @@ IDEs with code completion and other features.
 - [NetBeans](http://wiki.netbeans.org/Python) - Python/Jython support in NetBeans. Open source, allows Python and Jython Editing, code-completion, debugger, refactoring, templates, syntax analysis, etc.
 - [VS Tools for Python](http://pytools.codeplex.com/) - Open-source plugin for Visual Studio 2010, 2012 and 2013. Supports syntax highlighting, debugging and rich intellisense, refactoring, object browser, MPI cluster debugging, Django intellisense and debugging, development REPL window and a debugging REPL window.
 - [Atom](https://atom.io/) - 4th Generation enhanced GUI, rich integrated enviornmet for multiple languages including python.
+- [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
 
 Debugger
 ---------
