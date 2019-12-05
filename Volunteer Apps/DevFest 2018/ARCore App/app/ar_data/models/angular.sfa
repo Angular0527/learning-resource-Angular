@@ -1,0 +1,281 @@
+{
+  animations: [
+    {
+      path: 'ar_data/models/angular.fbx',
+    },
+  ],
+  materials: [
+    {
+      name: 'Material_207',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: '1100',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Material_209',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: '1110',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Material_211',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: '1119',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Material_213',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: '1127',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+    {
+      name: 'Material_215',
+      parameters: [
+        {
+          baseColor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          baseColorMap: '1135',
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          reflectance: 0.5,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'Color',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: 'ar_data/models/angular.fbx',
+    name: 'angular',
+    recenter: 'root',
+  },
+  samplers: [
+    {
+      file: 'ar_data/models\\angular.fbm\\1135.png',
+      name: '1135',
+      pipeline_name: 'angular.fbm\\1135.png',
+    },
+    {
+      file: 'ar_data/models\\angular.fbm\\1100.png',
+      name: '1100',
+      pipeline_name: 'angular.fbm\\1100.png',
+    },
+    {
+      file: 'ar_data/models\\angular.fbm\\1122.png',
+      name: '1122',
+      pipeline_name: 'angular.fbm\\1122.png',
+    },
+    {
+      file: 'ar_data/models\\angular.fbm\\1113.png',
+      name: '1113',
+      pipeline_name: 'angular.fbm\\1113.png',
+    },
+    {
+      file: 'ar_data/models\\angular.fbm\\1104.png',
+      name: '1104',
+      pipeline_name: 'angular.fbm\\1104.png',
+    },
+    {
+      file: 'ar_data/models\\angular.fbm\\1110.png',
+      name: '1110',
+      pipeline_name: 'angular.fbm\\1110.png',
+    },
+    {
+      file: 'ar_data/models\\angular.fbm\\1119.png',
+      name: '1119',
+      pipeline_name: 'angular.fbm\\1119.png',
+    },
+    {
+      file: 'ar_data/models\\angular.fbm\\1127.png',
+      name: '1127',
+      pipeline_name: 'angular.fbm\\1127.png',
+    },
+    {
+      file: 'ar_data/models\\angular.fbm\\1130.png',
+      name: '1130',
+      pipeline_name: 'angular.fbm\\1130.png',
+    },
+    {
+      file: 'ar_data/models\\angular.fbm\\1138.png',
+      name: '1138',
+      pipeline_name: 'angular.fbm\\1138.png',
+    },
+  ],
+  version: '0.52:1',
+}

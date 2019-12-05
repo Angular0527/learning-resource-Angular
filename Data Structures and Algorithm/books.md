@@ -3,6 +3,8 @@ Name | Link
 ------------ | ------------- 
 Data Structures Using C and C++ | http://www.amazon.in/dp/8131703282
 Data Structures and Algorithms in Java | https://www.amazon.com/dp/0672324539
+Parallel and High Performance Computing | https://www.manning.com/books/parallel-and-high-performance-computing
+Algorithms and Data Structures in Action | https://www.manning.com/books/algorithms-and-data-structures-in-action
 
 ### Algorithm Books
 Name | Link

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tensorstick" size="100.000000 100.000000" />
+    <ImageTarget name="pythonstick" size="100.000000 100.000000" />
+    <ImageTarget name="nodestick" size="100.000000 100.000000" />
+    <ImageTarget name="flutterstick" size="100.000000 100.000000" />
+    <ImageTarget name="firebasestick" size="100.000000 100.000000" />
+    <ImageTarget name="dialogflowstick" size="100.000000 100.000000" />
+    <ImageTarget name="cloudstick" size="100.000000 100.000000" />
+    <ImageTarget name="aogooglestick" size="100.000000 100.000000" />
+    <ImageTarget name="angularstick" size="100.000000 100.000000" />
+    <ImageTarget name="androidstick" size="100.000000 100.000000" />
+    <ImageTarget name="tensorflowhd" size="100.000000 107.001045" />
+    <ImageTarget name="python" size="100.000000 100.000000" />
+    <ImageTarget name="nodejs" size="100.000000 61.250000" />
+    <ImageTarget name="flutterhd" size="100.000000 100.000000" />
+    <ImageTarget name="firebasehd" size="100.000000 137.125000" />
+    <ImageTarget name="dialoghd" size="100.000000 130.982910" />
+    <ImageTarget name="cloudhd" size="100.000000 95.686272" />
+    <ImageTarget name="aogooglehd" size="100.000000 94.401543" />
+    <ImageTarget name="angular" size="100.000000 100.000000" />
+    <ImageTarget name="android" size="100.000000 122.137405" />
+  </Tracking>
+</QCARConfig>

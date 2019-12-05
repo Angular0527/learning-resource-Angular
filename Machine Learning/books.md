@@ -1,3 +1,4 @@
+
 Name | Link
 ------------ | ------------- 
 Machine Learning for Absolute Beginners | https://www.amazon.com/dp/B06VXKBLNG
@@ -14,4 +15,5 @@ Hands-On Machine Learning with Scikit-Learn and TensorFlow | https://www.amazon.
 Python Deep Learning | http://www.amazon.in/dp/1786464454
 Neural Networks and Deep Learning | http://neuralnetworksanddeeplearning.com/
 Deep Learning with Python | https://drive.google.com/open?id=0B7b31e1VkgaZNWhZMmZYakZBM0k
-
+ The Hundred-Page Machine Learning Book| https://www.amazon.in/Hundred-Page-Machine-Learning-Book-ebook/dp/B07MGCNKXB
+ Grokking Deep Learning|[https://www.amazon.in/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709](https://www.amazon.in/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)
