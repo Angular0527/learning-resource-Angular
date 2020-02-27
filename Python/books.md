@@ -21,3 +21,4 @@
 * [Learn Python and upskill your business](https://drive.google.com/file/d/0B0PXG8NrnX0XTjBFZkszUjMtaWc/view?usp=sharing) - Recipes to upskill your business. Put your life on autopilot and make your business processes efficient with the magic and power of Python!
 * [Violent Python](https://www.amazon.in/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579) -  A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers
 * [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects) - Teaches test-driven development and Python skills to beginners, see also [GitHub repo](https://github.com/kyclark/tiny_python_projects)
+* [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
