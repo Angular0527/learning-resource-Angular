@@ -13,4 +13,6 @@
 ### Useful Links
  * [Java 9 resources](https://sm-dev.edutone.net/Java9/) - Java9 resources
  * [Javalin Framework](https://javalin.io/) - A simple web framework for Java and Kotlin
-
+ 
+ ### Books
+ * [Java SE 11 Programmer I Certification Guide](https://www.manning.com/books/java-se-11-programmer-i-certification-guide/) - A book by Mala Gupta
