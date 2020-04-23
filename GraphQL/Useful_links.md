@@ -1,6 +1,7 @@
 ###  GraphQL Useful Video Tutorials for Begginers
   
   - [Youtube Video](https://www.youtube.com/watch?v=ed8SzALpx1Q)
+  - [Practical GraphQL: Become a GraphQL Ninja](https://www.manning.com/livevideo/practical-graphql-become-a-graphql-ninja)
   
     ### Blogs/Articles 
   
