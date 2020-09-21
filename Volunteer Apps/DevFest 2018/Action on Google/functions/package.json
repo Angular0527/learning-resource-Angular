@@ -16,7 +16,7 @@
     "actions-on-google": "^2.3.0",
     "firebase-admin": "~6.0.0",
     "firebase-functions": "^2.0.3",
-    "googleapis": "^34.0.0",
+    "googleapis": "^39.1.0",
     "request": "^2.88.0"
   },
   "devDependencies": {
