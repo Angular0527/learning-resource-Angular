@@ -1,6 +1,7 @@
 
 Name | Link
 ------------ | ------------- 
+Approaching (Almost) Any Machine Learning Problem | https://www.amazon.in/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT
 Machine Learning for Absolute Beginners | https://www.amazon.com/dp/B06VXKBLNG
 A First Course in Machine Learning | https://www.amazon.com/dp/1439824142
 Machine Learning Paradigms | https://www.amazon.com/dp/B00ZMRJOCG
