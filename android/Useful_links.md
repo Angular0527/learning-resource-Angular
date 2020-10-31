@@ -128,3 +128,5 @@
  ### Open Resources Android
 - [open resources](http://rizky.lecturer.pens.ac.id/android/) - an openly available directories containing usefull resources for android 
 
+### Android App Reverse Engineering
+- [Android App Reverse Engineering 101](https://ragingrock.com/AndroidAppRE/) - Learn to reverse engineer Android applications!
