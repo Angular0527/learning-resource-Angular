@@ -1,5 +1,7 @@
-Name | Links 
------------- | ------------- 
+# Useful Links
+
+Name | Links
+------------ | -------------
 First-Time Git Setup  | https://help.github.com/articles/set-up-git/#platform-all
 Create A Repo | https://help.github.com/articles/create-a-repo/
 Fork A Repo | https://help.github.com/articles/fork-a-repo/
@@ -16,3 +18,4 @@ git-draw (git-draw is a small tool that draws nearly the full content of a tiny 
 Git Tutorial | https://www.tutorialspoint.com/git/
 A Hacker's Guide to Git ( for those wanting to learn git with a solid foundation) | https://wildlyinaccurate.com/a-hackers-guide-to-git/
 Top Tutorials To Learn Git For Beginners | https://medium.com/quick-code/top-tutorials-to-learn-git-for-beginners-622289ffdfe5
+git_basics | https://harshkapadia2.github.io/git_basics/

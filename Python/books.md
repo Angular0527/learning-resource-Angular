@@ -23,3 +23,5 @@
 * [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects) - Teaches test-driven development and Python skills to beginners, see also [GitHub repo](https://github.com/kyclark/tiny_python_projects)
 * [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
 * [High Performance Python for Data Analytics](https://www.manning.com/books/high-performance-python-for-data-analytics) - A hands-on guide that takes a holistic approach to Python performance.
+* [Pandas in Action](https://www.manning.com/books/pandas-in-action)
+* [Full Stack Python Security](https://www.manning.com/books/full-stack-python-security) - Cryptography, TLS, and attack resistance
