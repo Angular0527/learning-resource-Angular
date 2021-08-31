@@ -23,3 +23,4 @@
 * [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects) - Teaches test-driven development and Python skills to beginners, see also [GitHub repo](https://github.com/kyclark/tiny_python_projects)
 * [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
 * [Pandas in Action](https://www.manning.com/books/pandas-in-action)
+* [Publishing Python Packages](https://www.manning.com/books/publishing-python-packages)
