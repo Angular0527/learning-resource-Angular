@@ -18,3 +18,5 @@ Neural Networks and Deep Learning | http://neuralnetworksanddeeplearning.com/
 Deep Learning with Python | https://drive.google.com/open?id=0B7b31e1VkgaZNWhZMmZYakZBM0k
  The Hundred-Page Machine Learning Book| https://www.amazon.in/Hundred-Page-Machine-Learning-Book-ebook/dp/B07MGCNKXB
  Grokking Deep Learning|[https://www.amazon.in/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709](https://www.amazon.in/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)
+Human-in-the-Loop Machine Learning | https://www.manning.com/books/human-in-the-loop-machine-learning
+Machine Learning Bookcamp | https://www.manning.com/books/machine-learning-bookcamp
