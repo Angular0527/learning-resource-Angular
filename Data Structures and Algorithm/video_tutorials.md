@@ -1,2 +1,3 @@
 - [MIT Video Series On Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video-lectures/) - Free Online MIT Course for Algorithms
 - [My code school youtube playlist](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&feature=view_all) - One of the best playlist for beginners to get started with data structures
+- [What You Need To Know about Modern Hashing](https://www.youtube.com/watch?v=X9SBwzpYHhA) -  The basic review of hashing (applications, collision resolution, and how Python implements dict), as well as consistent hashing
