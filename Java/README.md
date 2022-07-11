@@ -19,3 +19,4 @@
 
  ### Books
  * [Java SE 11 Programmer I Certification Guide](https://www.manning.com/books/java-se-11-programmer-i-certification-guide/) - A book by Mala Gupta
+ * [How to Read Java](https://www.manning.com/books/how-to-read-java) - A book that teaches you how to better understand Java application code.

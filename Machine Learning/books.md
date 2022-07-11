@@ -21,3 +21,4 @@ Deep Learning with Python | https://drive.google.com/open?id=0B7b31e1VkgaZNWhZMm
 Human-in-the-Loop Machine Learning | https://www.manning.com/books/human-in-the-loop-machine-learning
 Machine Learning Bookcamp | https://www.manning.com/books/machine-learning-bookcamp
 Feature Engineering Bookcamp | https://www.manning.com/books/feature-engineering-bookcamp
+Managing Machine Learning Projects: From design to deployment | https://www.manning.com/books/managing-machine-learning-projects
