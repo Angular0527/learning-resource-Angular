@@ -19,3 +19,4 @@ Link | Author/Company
 [Add Google Maps to your Android App - Integrate Maps, Cameras, and Street View](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4) | Google
 [Add Google Sign-In to your Android Apps - Add Sign-In for Mobile App Development](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5) | Google
 [UX Design for Mobile Developers - Learn to Design a 5-Star Android App](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) | Google
+[Discover Android courses from dozens of online learning platforms](https://bestcourses.io/results?q=android&size=n_20_n) | Miscellaneous

@@ -20,3 +20,4 @@ Link | Author/Company
 [Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)| Udemy
 [Deep Learning for Coders](https://course18.fast.ai/ml)|Fast.ai
 [Python Data Science](https://www.coursera.org/specializations/data-science-python)|Coursera
+[Discover Machine Learning courses from dozens of online learning platforms](https://bestcourses.io/results?q=machine%20learning&size=n_20_n) | Miscellaneous

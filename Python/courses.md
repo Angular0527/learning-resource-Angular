@@ -20,3 +20,7 @@ Link | Description | Author/Company
 Link | Description | Author/Company
 ------------ | ------------- | -------------
 [Talk Python: Python for Absolute Beginners](https://www.manning.com/livevideo/talk-python-python-for-absolute-beginners) |  Ground-up guide to software development using Python. | Manning Publications
+
+
+### Course discovery platforms
+[bestcourses](https://bestcourses.io/results?q=python&size=n_20_n) |  Discover Python courses from various online learning platforms | Miscellaneous
