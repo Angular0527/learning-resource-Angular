@@ -11,3 +11,4 @@ WordPress Getting Started Tutorial | https://www.youtube.com/playlist?list=PLn5i
 The WordPress Beginner Tutorial Class | https://www.youtube.com/playlist?list=PLtaXuX0nEZk-rRfsl8lclMY5TncDmAUBm | No
 Install WordPress on Computer using XAMPP | https://www.udemy.com/course/wordpress-xampp | Yes
 WordPress Multi Vendor Marketplace eCommerce Website | https://www.udemy.com/course/wordpress-multi-vendor-marketplace-ecommerce-website | Yes
+Discover WordPress courses from dozens of online learning platforms | https://bestcourses.io/results?q=wordpress&size=n_20_n | Depends
