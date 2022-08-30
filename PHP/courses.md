@@ -6,3 +6,6 @@
 - [SOLOLEARN](https://www.sololearn.com/Course/PHP/) - PHP Tutorial.
 - [phpbuddy](http://www.phpbuddy.com/) - learn php programming.
 - [php-mysql](http://coursesweb.net/php-mysql/) - Key concepts.
+
+### Course comparison platforms
+[bestcourses](https://bestcourses.io/results?q=php&size=n_20_n) - discover PHP courses from dozens of online learning platforms.
