@@ -25,6 +25,7 @@
 * [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
 * [Pandas in Action](https://www.manning.com/books/pandas-in-action)
 * [Publishing Python Packages](https://www.manning.com/books/publishing-python-packages)
+* [Let's Talk Python](https://www.manning.com/books/lets-talk-python) - Unique Python beginners guide written especially for young people.
 
 ### Python Books
 
